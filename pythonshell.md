@@ -9,7 +9,7 @@ In this module you can learn:
 
 
 ### Traces in the desert sand…
-<img src="./img/desert.png" alt="slot" style="width: 300px;"/>
+<img src="./img/desert.png" alt="slot" style="width: 200px;"/>
 
 Fill in dashed lines with appropriate values using the python interactive shell
 
@@ -94,11 +94,11 @@ import math
 
 Find the matching pairs of functions and x/y values.
 
-<img src="./img/mathgame.png" alt="slot" style="width: 500px;"/>
+<img src="./img/mathgame.png" alt="slot" style="width: 300px;"/>
 
 
 ### Components of Python
-<img src="./img/pycomponents.png" alt="slot" style="width: 500px;"/>
+<img src="./img/pycomponents.png" alt="slot" style="width: 300px;"/>
 
 
 ### Recap
@@ -229,7 +229,7 @@ T = 298
 +  Use variables for the parameters.
 +  Print the results to the screen.
 
-<img src="./img/task4table.png" alt="slot" style="width: 500px;"/>
+<img src="./img/task4table.png" alt="slot" style="width: 300px;"/>
 
 ```
 import math
