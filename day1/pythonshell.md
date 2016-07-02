@@ -9,7 +9,7 @@ In this module you can learn:
 
 
 ### Traces in the desert sand…
-<img src="./img/desert.png" alt="slot" style="width: 200px;"/>
+<img src="../img/desert.png" alt="slot" style="width: 200px;"/>
 
 Fill in dashed lines with appropriate values using the python interactive shell
 
@@ -94,11 +94,11 @@ import math
 
 Find the matching pairs of functions and x/y values.
 
-<img src="./img/mathgame.png" alt="slot" style="width: 300px;"/>
+<img src="../img/mathgame.png" alt="slot" style="width: 300px;"/>
 
 
 ### Components of Python
-<img src="./img/pycomponents.png" alt="slot" style="width: 300px;"/>
+<img src="../img/pycomponents.png" alt="slot" style="width: 300px;"/>
 
 
 ### Recap
@@ -190,7 +190,7 @@ ATOM     12  CD1 ILE A   2     -12.434  12.031   9.365  1.00 19.10           C
 ATOM     13  N   VAL A   3      -9.110  12.680   5.224  1.00 18.04           N  
 ATOM     14  CA  VAL A   3      -7.652  12.759   5.315  1.00 19.40           C  
 ATOM     15  C   VAL A   3      -7.193  14.102   4.747  1.00 19.43           C  
-ATOM     16  O   VAL A   3      -6.395  14.820   5.357  1.00 19.23           O 
+ATOM     16  O   VAL A   3      -6.395  14.820   5.357  1.00 19.23           O
 ```
 
 #### Task #4
@@ -211,7 +211,7 @@ T = 298
 +  Use variables for the parameters.
 +  Print the results to the screen.
 
-<img src="./img/task4table.png" alt="slot" style="width: 300px;"/>
+<img src="../img/task4table.png" alt="slot" style="width: 300px;"/>
 
 ```
 import math
