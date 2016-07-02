@@ -14,7 +14,7 @@
 Each slot is organised as follows:
 
 
-<img src="./img/slot.png" alt="slot" style="width: 300px;"/>
+<img src="../img/slot.png" alt="slot" style="width: 300px;"/>
 
 
 
