@@ -85,8 +85,8 @@ else:
 ```
 
 Check these conditions:
-+ 'ACTC'[0] == 'C'  True or false?
-+ 'ACTC'[0] == 'A'  True or false?
+` 'ACTC'[0] == 'C' `  is  True or false?
+` 'ACTC'[0] == 'A' `  is  True or false?
 
 ```
 ==    !=     =>    <=    >      <
@@ -112,7 +112,7 @@ if 'T' in nucl: print 'T'
 if 'G' in nucl: print 'G'
 ```
 
-#### Program 3
+### Program 3
 
 Read a sequence in FASTA format and print only the
 header of the sequence
@@ -229,10 +229,6 @@ header.close()
 seq.close()
 ```
 
-
-
-
-
 ### Program 6
 Let’s increase the difficulty just a bit…
 
@@ -257,7 +253,7 @@ seq = seq + line.strip()
 print header, seq
 ```
 
-#### Program 7
+### Program 7
 
 
 
@@ -364,7 +360,7 @@ headers.close()
 >sp|Q04917|1433F_HUMAN 14-3-3 protein eta OS=Homo sapiens GN=YWHAH
 ```
 
-#### Program 10
+### Program 10
 
 
 Read a multiple sequence FASTA file and write the sequences to a new file separated by a blank line

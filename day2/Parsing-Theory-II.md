@@ -55,8 +55,7 @@ First, you have to store the 10 Uniprot ID in a data structure
 Lists are nice and veeeeery flexible data structures
 
 ```
-['Q5XXA6', 'Q9Y5P2', 'Q14667', 'O75387', 'Q8WV07',
-'Q8CH62', 'Q9GZY1', 'Q9NQQ7', 'Q8VCX2', 'Q7Z769']
+['Q5XXA6', 'Q9Y5P2', 'Q14667', 'O75387', 'Q8WV07','Q8CH62', 'Q9GZY1', 'Q9NQQ7', 'Q8VCX2', 'Q7Z769']
 ```
 
 ## List data structure
@@ -177,9 +176,9 @@ The elements of a list can be changed/replaced after the list has been defined
 
 | |
 |--|
-|l.reverse()
-|l.sort()
-|sorted(l)
+|l.reverse()|
+|l.sort()|
+|sorted(l)|
 
 ```
 >>> l = [4, 3, 2, 1, 5, 6, 7, 8]
@@ -198,7 +197,7 @@ The elements of a list can be changed/replaced after the list has been defined
 
 ## Putting together lists and loops
 
-range() and xrange() built-in functions
+`range()` and `xrange()` built-in functions
 
 ```
 >>> range(10)
