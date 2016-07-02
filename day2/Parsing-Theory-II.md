@@ -2,12 +2,13 @@
 
 
 
-Parsing data records II
+# Parsing data records II
 
 
 
 In many cases you will need to compare
 data from different files
+```
 SwissProt-Human.fasta
 >sp|P31946|1433B_HUMAN 14-3-3 protein beta/alpha OS=Homo sapiens
 MTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARRSS
@@ -30,71 +31,92 @@ EAGEGN
 ...
 ...
 ...
-cancer-expressed.txt
+```
+
+Check the file cancer-expressed.txt
+```
+Q5XXA6
+Q9Y5P2
+Q14667
+O75387
+Q8WV07
+Q8CH62
+Q9GZY1
+Q9NQQ7
+Q8VCX2
+Q7Z769
+```
+
 First, you have to store the 10 Uniprot ID in a data structure
 
-Read 10 SwissProt ACs from a file
-Store them into a data structure
++ Read 10 SwissProt ACs from a file
++ Store them into a data structure
 
-Lists are nice and veeeeery flexible data
-structures
+Lists are nice and veeeeery flexible data structures
 
-
+```
 ['Q5XXA6', 'Q9Y5P2', 'Q14667', 'O75387', 'Q8WV07',
 'Q8CH62', 'Q9GZY1', 'Q9NQQ7', 'Q8VCX2', 'Q7Z769']
-List data structure
+```
+
+## List data structure
+
 A list is a mutable ordered collection of objects
 
 The elements of a list can be any kind of object:
-numbers
-strings
-tuples
-lists
-dictionaries
-function calls
-etc.
 
+- numbers
+- strings
+- tuples
+- lists
+- dictionaries
+- function calls
+- *etcetera*
+
+```
 L = [1, [2,3], 4.52, 'DNA']
 
-L = []              The empty list
+L = []             # the empty list
 
+```
+<img src="../img/parsingimgCHANGE.png" alt="slot" style="width: 300px;"/>
+
+
+```
 >>> L = [1,”hello”,12.1,[1,2,”three”],”seq”,(1,2)]
->>> L[0]
+>>> L[0]  # indexing
 1
->>> L[3]
+>>> L[3]  # indexing
 [1, 2, ’three']
->>> L[3][2]
+>>> L[3][2]  # indexing
 ‘three’
->>> L[-1]
+>>> L[-1]  # negative indexing
 (1, 2)
 >>> L[2:4]
-[12.1, [1, 2, ‘three’]]
+[12.1, [1, 2, ‘three’]]  # slicing
 >>> L[2:]
-[12.1, [1, 2, ‘three’], ‘seq’, (1, 2)]
+[12.1, [1, 2, ‘three’], ‘seq’, (1, 2)] #slicing shorthand
 >>>
-# indexing
-
-# indexing
-
-# indexing
-
-# negative indexing
-
-# slicing
-
-# slicing shorthand
-The elements of a list can be changed/replaced after the list has been defined
-These operations CHANGE the list
+```
 
 
 
-l[i] = x
-l[i:j] = t
-del l[i:j]
-del l[i:j:k]
-l.append(x)
-l.extend(s)
+The elements of a list can be changed/replaced after the list has been defined **These operations CHANGE the list**
+
+
+|        |
+|--------|
+|l[i] = x|
+|l[i:j] = t|
+|del l[i:j]|
+|del l[i:j:k]|
+|l.append(x)|
+|l.extend(s)|
+
 s = any sequence
+
+
+```
 >>> l = [2,3,5,7,8,['a','b'],'a','b','cde']
 >>> l[0] = 1
 >>> l
@@ -112,17 +134,22 @@ s = any sequence
 >>> l
 [['a', 'b'], 'a', 'b', 'cde', 'DNA', 'd', 'n', 'a']
 >>>
+```
+
+
 The elements of a list can be changed/replaced after the list has been defined
 
 
 
+| |
+|--------|
+|l.count(x)|
+|l.index(x)|
+|l.insert(i, x)|
+|l.pop(i)
+|l.remove(x)
 
-
-l.count(x)
-l.index(x)
-l.insert(i, x)
-l.pop(i)
-l.remove(x)
+```
 >>> l = [1,3,5,7,8,['a','b'],'a','b','cde']
 >>> l.count(‘a’)
 >>> l
@@ -143,15 +170,18 @@ l.remove(x)
 >>> l.remove(8)
 [1, 3, 5, 7, [‘a’, ‘b’], ‘a’, ‘b’]
 The elements of a list can be changed/replaced after the list has been defined
+```
 
 
 
 
+| |
+|--|
+|l.reverse()
+|l.sort()
+|sorted(l)
 
-
-l.reverse()
-l.sort()
-sorted(l)
+```
 >>> l = [4, 3, 2, 1, 5, 6, 7, 8]
 >>> l.reverse()
 >>> l
@@ -164,8 +194,13 @@ sorted(l)
 >>> l.sort()
 >>> l
 [1, 2, 3, 4, 5, 6, 7, 8]
-Putting together lists and loops
+```
+
+## Putting together lists and loops
+
 range() and xrange() built-in functions
+
+```
 >>> range(10)
 [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 >>> range(1, 11)
@@ -185,16 +220,21 @@ range() and xrange() built-in functions
 …             print i
 …
 0,1,2,3,4
-The xrange()method generates the values upon call, i.e. it does not
+```
+The `xrange()` method generates the values upon call, i.e. it does not
 store them into a variable
-Program 1
 
 
-•   Read 10 SwissProt ACs from a file
-•   Store them into a list
-•   Print the list
-Program 1 - solution
+### Program 1
 
+
+-  Read 10 SwissProt ACs from a file
+-   Store them into a list
+-   Print the list
+
+#### Program 1 - solution
+
+```
 cancer_file = open('cancer-expressed.txt')
 
 cancer_list = []
@@ -203,15 +243,18 @@ for line in cancer_file:
 AC = line.strip()
 cancer_list.append(AC)
 print cancer_list
-Program 2
+```
+
+#### Program 2
 
 
-•   Create a list containing Uniprot ACs extracted
+-  Create a list containing Uniprot ACs extracted
 from a FASTA file.
-•   Print the list.
-Program 2 - solution
+-   Print the list.
 
+#### Program 2 - solution
 
+```
 InputFile = open("SwissProtHuman.fasta","r")
 AC_list = []
 for line in InputFile:
@@ -219,15 +262,19 @@ if line[0] == '>':
 fields = line.split('|')
 AC_list.append(fields[1])
 print AC_list
-Program 3
+```
+
+### Program 3
 
 
-•   Read the human FASTA file one record after the
+-   Read the human FASTA file one record after the
 other. Check if the record header contains one of the
 10 ACs.
-•   If YES, copy the header to a new file.
-Program 3 - solution
+-   If YES, copy the header to a new file.
 
+#### Program 3 - solution
+
+```
 cancer_file = open('cancer-expressed.txt')
 human_fasta = open('SwissProt-Human.fasta')
 Outfile = open(‘cancer-expressed.fasta’,’w’)
@@ -244,12 +291,16 @@ AC = line.split('|')[1]
 if AC in cancer_list:
 Outfile.write(line)
 Outfile.close()
+```
 
-We are not writing the
+
+*We are not writing the
 whole record but the
-header line only
-SwissProt-Human.fasta
+header line only*
 
+Check the file SwissProt-Human.fasta
+
+```
 >sp|P31946|1433B_HUMAN 14-3-3 protein beta/alpha OS=Homo sapiens
 MTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARR
 SS
@@ -271,13 +322,17 @@ RVISSIEQKTMADGNEKKLEKVKAYREKIEKELETVCNDVLSLLDKFLIKNCNDFQYESK
 VFYLKMKGDYYRYLAEVASGEKKNSVVEASEAAYKEAFEISKEQMQPTHPIRLGLALNFS
 VFYYEIQNAPEQACLLAKQAFDDAIAELDTLNEDSYKDSTLIMQLLRDNLTLWTSDQQDE
 EAGEGN
-Program 4
+```
+
+### Program 4
 
 
 Read a multiple sequence file in FASTA format and write to
 a new file only the records the Uniprot ACs of which are
-present in the list created in Exercise 1
-Program 4 -  solution I
+present in the list created in Program 1
+
+#### Program 4 -  solution I
+```
 cancer_file = open('cancer-expressed.txt')
 human_fasta = open('SwissProt-Human.fasta')
 Outfile = open('cancer_expressed.fasta','w')
@@ -302,7 +357,10 @@ seq = seq + line
 
 if AC in cancer_list:
 Outfile.write(header+seq)
-Program 4 -  solution II
+```
+
+#### Program 4 -  solution II
+```
 cancer_file = open('cancer-expressed.txt')
 human_fasta = open('SwissProt-Human.fasta')
 Outfile = open('cancer_expressed.fasta','w')
@@ -323,17 +381,22 @@ else:
 if AC in cancer_list:
 Outfile.write(line)
 Outfile.close()
-Putting together conditions and loops
-while loops
-The while statement is used for executing a set of statements until a given
-condition is met
-while <condition 1>:
-<statements 1>
+```
+
+## Putting together conditions and loops `while` loops
+The while statement is used for executing a set of statements until a given  condition is met
+
+    **while <condition 1>:
+    <statements 1>**
+```
 >>> a = 1
 >>> while a < 5:
 ...     print a,
 ...     a = a + 1
+```
+
 BUT:
+```
 >>> a = 1
 >>> while a > 0:
 ...     if a == 5: break
@@ -342,13 +405,19 @@ BUT:
 ... else: print "loop terminated"
 ...
 1 2 3 4
-The Boolean values Trueand False
-ifand whilestatements return a Falsevalue when they are applied to:
-None
-0
-Empty data structures: '',(),[],{}
+```
+
+## The Boolean values `True` and `False`
+`if` and `while` statements return a `False` value when they are applied to:
+
+- None
+- 0
+- Empty data structures: '',(),[],{}
+
 The statements in an if or a while block are executed only if the
 condition returns the value True.
+
+```
 >>> p = 'protein'
 >>> if p: print 'True'
 ...
@@ -361,9 +430,12 @@ True
 ...
 0 1 2 3 4 5
 >>>
-We can use while loops to read files
-(but usually we won’t do it)
+````
 
+We can use while loops to read files
+(but usually we won’t do it):
+
+```
 cancer_file = open('cancer-expressed.txt')
 
 cancer_list = []
@@ -372,3 +444,4 @@ while line:
 AC = line.strip()
 cancer_list.append(AC)
 line = cancer_file.readline()
+```
