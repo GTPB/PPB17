@@ -194,7 +194,7 @@ i.e. include documentation (metadata) describing the data
 
 Reproducibility requires three things:
 
-<img src="../../img/BestPract.png" alt="slot" style="width: 300px;"/>
+
 
 
 
