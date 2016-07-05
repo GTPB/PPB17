@@ -45,8 +45,6 @@ else:
 <img src="../../img/ErrorHandling.png" alt="slot" style="width: 300px;"/>
 
 
-
-
 ```
 
 def main(data):
