@@ -1,0 +1,9 @@
+blastp -query nuclear_antigens_pep.fasta -db pfalc -outfmt 6 -max_target_seqs 1 -out blast_out_single
+
+query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, sequence
+
+The output file has a great format however is there a way to add an extra column that contains the actual target-seq (sequence of the matched hit)? Such that the fields are:
+
+blastn -db BLASTDB -word_size 7 -query input.fa -out filename -perc_identity 100 -outfmt 6 -max_target_seqs 2
+
+To discard non-perfect hits and show only the 2 top hits.
