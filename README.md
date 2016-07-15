@@ -1,5 +1,4 @@
-# Bioinformatics-using-Python-for-Biomedical-Researchers
-
+# Python for life science 
 
  <table style="width:100%">
   <tr>
