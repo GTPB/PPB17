@@ -25,8 +25,8 @@ The course will be highly interactive and the students will continuously put the
 #### This repository is for the course materials and it is organized as follows:
 
 Days |Lessons \& Tutorials | Data \& Scripts |
------------- | -------------|
-day 1 | [Intro](day1/intro.md), [Unix/Linux command line](day1/1-Unix/Unix-Theory-BPBR16.md), [Python Shell](day1/2-Pythonshell/pythonshell.md) |[Unix D&S](day1/1-Unix/unix_tutorial), [Pytho Shell D&S](day1/2-Pythonshell/d1_pyshell_data_scripts) | 
+------------ | ------------- | ------------- | 
+day 1 | [Intro](day1/intro.md), [Unix/Linux command line](day1/1-Unix/Unix-Theory-BPBR16.md), [Python Shell](day1/2-Pythonshell/pythonshell.md) |[Unix D&S](day1/1-Unix/unix_tutorial), [Pytho Shell D&S](day1/2-Pythonshell/d1_pyshell_data_scripts) |
 day 2 |[Python Programs](day2/1-PythonPrograms/PythonPrograms.md), [Repeating Things](day2/2-RepeatingThings/RepeatingThings.md), [Structures and Modules](day2/1-PythonPrograms/PythonStructureModulesImport.md), [File Formats](day2/3-Parsing/FileFormats.md),  [Parsing I](day2/3-Parsing/Parsing-Theory-I.md), [Parsing II](day2/3-Parsing/Parsing-Theory-II.md)|
 day 3 |[Functions](day3/1-Functions/functions.md),  [Best Practices](day3/2-Debugging/BestPracticesInProgramming.md), [Error Handling](day3/2-Debugging/ErrorHandling.md),  [Data Columns](day3/3-DataColumns/DataColumns.md), [Tabular Data](day3/4-TabularData/TabularData.md) |
 day 4 |[Data Searching](day4/1-DataSearching/DataSearching.md), [NGS pipeline](day4/2-Pipelines/NGS_pipeline.md), [BLAST Pipeline](day4/2-Pipelines/Running-BLAST_sys.argv.md), [Python libraries](day4/3-PythonLibraries/tasks.md) |
