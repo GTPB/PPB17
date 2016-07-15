@@ -24,6 +24,8 @@ The course will be highly interactive and the students will continuously put the
 
 #### This repository is for the course materials and it is organized as follows:
 
+
+
 Days |Lessons \& Tutorials | Data \& Scripts |
 ------------ | ------------- | ------------- |
 day 1 | [Intro](day1/intro.md), [Unix/Linux command line](day1/1-Unix/Unix-Theory-BPBR16.md), [Python Shell](day1/2-Pythonshell/pythonshell.md) |[Unix](day1/1-Unix/unix_tutorial), [Python Shell](day1/2-Pythonshell/d1_pyshell_data_scripts) |
