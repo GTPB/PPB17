@@ -2,8 +2,7 @@
 
 # Python programs
 
-## How can I run a program?
-## Input and output
+### How can I run a program? Input and output
 
 In this module you can learn
 -  How to read, process, and output text
