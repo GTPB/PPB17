@@ -15,6 +15,7 @@ In this module you can learn
 Challenge
 >
 > *Game of instruction*
+>
 > You will be given the drawing of a shape and in group you should write instructions to draw the same shape from scratch
 > The instructions will be given to another group that haven't seen the shape and should draw it following the instructions
 >
