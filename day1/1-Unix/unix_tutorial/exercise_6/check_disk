@@ -5,8 +5,10 @@ import re, os, sys
 os.system('df > 111')
 text = open('111').read()
 os.remove('111')
-root = re.findall("\s(\d+)\%\s\/\s*\n",text)[0]
+#root = re.findall("\s(\d+)\%\s\/\s*\n",text)[0]
 #root = re.findall("\s(\d+)\%\s\/\s*\n",text)
+root = re.findall("\s(\d+)\%\s*\/\s*\n",text)[0]
+
 #print root
 
 answer = raw_input("""
@@ -24,5 +26,4 @@ else:
     print """
 Sorry, please try again.
 """
-
 
