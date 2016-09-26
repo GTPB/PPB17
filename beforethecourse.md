@@ -1,6 +1,8 @@
 # Check list for instructors
 
-Check the websites links 
+Check the websites links
+
+Make an etherpad page for teh course 
 
 Make sure that UNIX tutorial folder is available on participants computer or easily downloadable
 
