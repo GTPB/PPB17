@@ -40,4 +40,5 @@ day 5 |[Hackaton](day5/Hackathon/HACKATHON_TASKS.md) | [Hackaton](day5/Hackathon
 
 
 ### This course was taught at:
--   [BPBR16](http://gtpb.igc.gulbenkian.pt/bicourses/BPBR16/) July 11th-15th 2016<br/>
+-  [Python for Life Scientists](http://bioinformaticstraining.pythonanywhere.com/course/11/) September 26-30 2016 </br>
+-   [BPBR16](http://gtpb.igc.gulbenkian.pt/bicourses/BPBR16/) July 11-15 2016<br/>
