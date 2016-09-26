@@ -51,18 +51,6 @@ Challenge
 ---
 
 
----
-Challenge
->
->Questions for getting started (given to small groups on cards)
-
-> + Write examples of 4 programs you know
-> + What methods do you know to give commands to your computer (e.g. to start a program)
-> + What is UNIX? What is a UNIX shell? Write a tentative definition.
-> + What do programs do?
-> + Write a definition of program.
->
----
 
 ## How is going to work
 
