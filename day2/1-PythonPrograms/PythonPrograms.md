@@ -11,6 +11,29 @@ In this module you can learn
 -  How to repeat things
 -  How to create your own modules
 
+---
+Challenge
+>
+> *Game of instruction*
+>
+> You will be given the drawing of a shape and in group you should write instructions to draw the same shape from scratch
+> The instructions will be given to another group that haven't seen the shape and should draw it following the instructions
+>
+---
+
+
+---
+Challenge
+>
+>Questions for getting started (given to small groups on cards)
+
+> + Write examples of 4 programs you know
+> + What do programs do?
+> + Write a definition of program.
+>
+---
+
+
 <img src="../../img/pp1.png" alt="slot" style="width: 100px;"/>
 
 
