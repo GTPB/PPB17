@@ -22,7 +22,7 @@ MTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARRWRVISSIEQKTERNEKKQQMGK
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-1">solution to challenge #1</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-#1">solution to challenge #1</a>
 
 <br>
 <br>
