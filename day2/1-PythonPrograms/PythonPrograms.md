@@ -90,7 +90,7 @@ Type a number: 3
 >
 ---
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/1-PythonPrograms/PythonPrograms.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/1-PythonPrograms/PythonPrograms.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
 
 
 
@@ -174,7 +174,7 @@ outfile.close()
 >
 ----
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/1-PythonPrograms/PythonPrograms.solutions.md#solution-to-challenge-4">solution to challenge #4<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/1-PythonPrograms/PythonPrograms.solutions.md#solution-to-challenge-4">solution to challenge #4<a/>
 
 
 

@@ -7,7 +7,7 @@
 -   Identify the location of a file/directory
 -   Move one directory up
 
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day1/1-Unix/Unix-Theory-BPBR16.md#challenge-1">back<a/>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day1/1-Unix/Unix-Theory-BPBR16.md#challenge-1">back<a/>
 
 
 #### Solution to challenge #2
@@ -21,7 +21,7 @@
 -   Remove a file
 -   Run programs
 
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day1/1-Unix/Unix-Theory-BPBR16.md#challenge-2">back<a/>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day1/1-Unix/Unix-Theory-BPBR16.md#challenge-2">back<a/>
 
 <br>
 <br>
@@ -29,4 +29,4 @@
 #### Solution to challenge #3
 ![ch3sol](../../img/chall3sol.png)
 
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day1/1-Unix/Unix-Theory-BPBR16.md#challenge-3">back<a/>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day1/1-Unix/Unix-Theory-BPBR16.md#challenge-3">back<a/>

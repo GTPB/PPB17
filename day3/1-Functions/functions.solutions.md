@@ -14,7 +14,7 @@ def triangle_area(b, h):
 
 print triangle_area(2.28, 3.55)
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day3/1-Functions/functions.md#challenge-1">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day3/1-Functions/functions.md#challenge-1">back</a>
 <br>
 <br>
 
@@ -29,7 +29,7 @@ def get_values(arg1, arg2):
 
 print get_values(15, 8)
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day3/1-Functions/functions.md#challenge-2">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day3/1-Functions/functions.md#challenge-2">back</a>
 <br>
 <br>
 
@@ -51,7 +51,7 @@ p2 = (45.83, 31.11, 92.04)
 
 print "Distance:", distance(p1, p2)
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day3/1-Functions/functions.md#challenge-3">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day3/1-Functions/functions.md#challenge-3">back</a>
 <br>
 <br>
 
@@ -66,7 +66,7 @@ def return_header(filename):
 
 print return_header('SingleSeq.fasta')
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day3/1-Functions/functions.md#challenge-4">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day3/1-Functions/functions.md#challenge-4">back</a>
 <br>
 <br>
 
@@ -86,7 +86,7 @@ filenames = ['SingleSeq1.fasta',
 for name in filenames:
     print return_header(name)
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day3/1-Functions/functions.md#challenge-5">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day3/1-Functions/functions.md#challenge-5">back</a>
 <br>
 <br>
 
@@ -131,7 +131,7 @@ for name in filenames:
 
 output.close()
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day3/1-Functions/functions.md#challenge-6">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day3/1-Functions/functions.md#challenge-6">back</a>
 <br>
 <br>
 
@@ -160,6 +160,6 @@ OutputFile.close()
 filename = "ap006852.gbk"
 genbank2fasta(filename)
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day3/1-Functions/functions.md#challenge-7">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day3/1-Functions/functions.md#challenge-7">back</a>
 <br>
 <br>

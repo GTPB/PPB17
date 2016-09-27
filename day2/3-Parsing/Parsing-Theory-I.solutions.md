@@ -8,7 +8,7 @@ for line in seq:
     print line
 ```
 
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-1">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-1">back</a>
 
 
 #### Solution to challenge #2
@@ -22,7 +22,7 @@ for line in seq:
 
 seq_2.close()
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-2">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-2">back</a>
 
 
 
@@ -61,7 +61,7 @@ for line in seq:
     if line[0] != '>':
         print line
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-3">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-3">back</a>
 
 
 
@@ -77,7 +77,7 @@ for line in fasta:
 
 header.close()
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-4">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-4">back</a>
 
 
 
@@ -93,7 +93,7 @@ for line in fasta:
 
 seq.close()
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-5">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-5">back</a>
 
 
 
@@ -114,7 +114,7 @@ for line in fasta:
 header.close()
 seq.close()
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-merge-programs-4-and-5">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-merge-programs-4-and-5">back</a>
 
 
 
@@ -133,7 +133,7 @@ for line in seq_fasta:
 
 print header, seq
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-6">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-6">back</a>
 
 
 
@@ -154,7 +154,7 @@ num_cys = seq.count("C")
 
 print header, seq, num_cys
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-7">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-7">back</a>
 
 
 #### Solution to challenge #8
@@ -191,7 +191,7 @@ Therefore `header` here is treated as Boolean:
 - if it is empty it will be interpreted as `False`
 - once it is filled, it becomes `True`
 
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-8">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-8">back</a>
 
 
 #### Solution to challenge #9
@@ -209,7 +209,7 @@ headers.close()
 >sp|P62258|1433E_HUMAN 14-3-3 protein epsilon OS=Homo sapiens
 >sp|Q04917|1433F_HUMAN 14-3-3 protein eta OS=Homo sapiens GN=YWHAH
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-9">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-9">back</a>
 
 
 #### Solution to challenge #10
@@ -229,7 +229,7 @@ seqs.close()
 
 seqs.write(line.strip() + '\n')
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-10">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-10">back</a>
 
 
 #### Solution to challenge #11
@@ -245,7 +245,7 @@ for line in human_fasta:
 
 Outfile.close()
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-11">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-11">back</a>
 
 
 
@@ -289,7 +289,7 @@ for line in fasta:
     else:
         seq = seq + line.strip()
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-12">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-12">back</a>
 
 
 
@@ -335,7 +335,7 @@ for line in fasta:
 
 output.close()
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-13">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-13">back</a>
 
 
 
@@ -363,7 +363,7 @@ if seq[0] == 'M' and TRP_num > 1:
   outfile.write(header + seq)
 outfile.close()
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-14">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-14">back</a>
 
 
 #### Solution II to challenge #15
@@ -389,4 +389,4 @@ for line in InputFile:
 InputFile.close()
 OutputFile.close()
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-15">back</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-15">back</a>

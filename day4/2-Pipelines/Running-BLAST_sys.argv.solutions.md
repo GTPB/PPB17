@@ -14,7 +14,7 @@ for line in gbk:
 
 ```
 
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day4/Pipelines/Running-BLAST_sys.argv.md#challenge-1>back<a/>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day4/Pipelines/Running-BLAST_sys.argv.md#challenge-1>back<a/>
 <br>
 <br>
 
@@ -33,7 +33,7 @@ for seq in seqs:
                 '6','-db','nr.00']
       subprocess.call(command_line)
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day4/Pipelines/Running-BLAST_sys.argv.md#challenge-2>back<a/>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day4/Pipelines/Running-BLAST_sys.argv.md#challenge-2>back<a/>
 <br>
 <br>
 
@@ -52,6 +52,6 @@ for seq in seqs:
 
 out.close()
 ```
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day4/Pipelines/Running-BLAST_sys.argv.md#challenge-3>back<a/>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/day4/Pipelines/Running-BLAST_sys.argv.md#challenge-3>back<a/>
 <br>
 <br>

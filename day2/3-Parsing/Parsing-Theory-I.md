@@ -23,7 +23,7 @@ MTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARRWRVISSIEQKTERNEKKQQMGK
 >
 ---
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-1">solution to challenge #1</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-1">solution to challenge #1</a>
 
 <br>
 <br>
@@ -36,7 +36,7 @@ See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for
 >
 ---
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-2">solution to challenge #2</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-2">solution to challenge #2</a>
 
 <br>
 <br>
@@ -108,7 +108,7 @@ MTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARWRVISSIEQKTERNEKKQQMGKE
 ---
 
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-3">solution to challenge #3</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-3">solution to challenge #3</a>
 <br>
 <br>
 
@@ -120,7 +120,7 @@ only the header of the record.
 >
 ---
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-4">solution to challenge #4</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-4">solution to challenge #4</a>
 
 <br>
 <br>
@@ -132,7 +132,7 @@ See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for
 >
 ---
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-5">solution to challenge #5</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-5">solution to challenge #5</a>
 
 <br>
 <br>
@@ -143,7 +143,7 @@ See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for
 >
 ---
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-4-and-5-mergred"> solution to challenges #4 and #5 merged</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-4-and-5-mergred"> solution to challenges #4 and #5 merged</a>
 
 <br>
 <br>
@@ -158,7 +158,7 @@ See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for
 >
 ---
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-6">solution to challenge #6</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-6">solution to challenge #6</a>
 
 
 <br>
@@ -172,7 +172,7 @@ See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for
 ---
 
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-7">solution to challenge #7</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-7">solution to challenge #7</a>
 
 <br>
 <br>
@@ -184,7 +184,7 @@ See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for
 >
 ---
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-8">solution to challenge #8</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-8">solution to challenge #8</a>
 
 <br>
 <br>
@@ -215,7 +215,7 @@ MDDREDLVYQAKLAEQAERYDEMVESMKKVAGMDVELTVEERNLLSVAYKNVIGARRASWRIISSIEQKEENKGGEDKLK
 ---
 
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-9">solution to challenge #9</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-9">solution to challenge #9</a>
 
 <br>
 <br>
@@ -227,7 +227,7 @@ See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for
 ---
 
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-10">solution to challenge #10</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-10">solution to challenge #10</a>
 
 <br>
 <br>
@@ -239,7 +239,7 @@ See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for
 ---
 
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-11">solution to challenge #11</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-11">solution to challenge #11</a>
 
 <br>
 <br>
@@ -252,7 +252,7 @@ See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for
 ---
 
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-12">solution to challenge #12</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-12">solution to challenge #12</a>
 
 <br>
 <br>
@@ -264,7 +264,7 @@ See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for
 ---
 
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-13">solution to challenge #13</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-13">solution to challenge #13</a>
 
 <br>
 <br>
@@ -287,7 +287,7 @@ See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for
 
 
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-14">solution to challenge #14</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-14">solution to challenge #14</a>
 
 <br>
 <br>
@@ -311,7 +311,7 @@ Gtaccgttgtagctctctcgtaaacacaagaaccaacaccaaacaacatactacaactga
 ---
 
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-15">solution to challenge #15</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-15">solution to challenge #15</a>
 
 
 

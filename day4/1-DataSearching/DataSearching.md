@@ -118,7 +118,7 @@ True
 >
 ---
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day4/DataSearching/DataSearching.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day4/DataSearching/DataSearching.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
 <br>
 <br>
 
@@ -129,7 +129,7 @@ See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for
 >
 ---
 
-See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day4/DataSearching/DataSearching.solutions.md#solution-to-challenge-1">solution to challenge #2<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day4/DataSearching/DataSearching.solutions.md#solution-to-challenge-1">solution to challenge #2<a/>
 <br>
 <br>
 
