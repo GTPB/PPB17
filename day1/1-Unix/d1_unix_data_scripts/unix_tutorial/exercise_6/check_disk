@@ -17,7 +17,7 @@ Please enter how many percent of the root disk ('/') are full.
 
 if answer == root or answer == root+'%':
     print """
-Correct.
+Correct. 
 
 The 18th character is '%s'.
 """%(chr(78))
@@ -26,3 +26,4 @@ else:
     print """
 Sorry, please try again.
 """
+
