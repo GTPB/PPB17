@@ -90,7 +90,7 @@ Type a number: 3
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/1-PythonPrograms/PythonPrograms.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/1-PythonPrograms/PythonPrograms.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
 
 
 
@@ -128,6 +128,8 @@ print insulin
 >
 ---
 <br>
+
+
 ## Output
 
 <img src="../../img/pp5.png" alt="slot" style="width: 100px;"/>
@@ -174,7 +176,7 @@ outfile.close()
 >
 ----
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/1-PythonPrograms/PythonPrograms.solutions.md#solution-to-challenge-4">solution to challenge #4<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/1-PythonPrograms/PythonPrograms.solutions.md#solution-to-challenge-4">solution to challenge #4<a/>
 
 
 

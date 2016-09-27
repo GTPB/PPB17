@@ -75,7 +75,7 @@ Why or why not?
 ----
 
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/2-RepeatingThings/RepeatingThings.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/2-RepeatingThings/RepeatingThings.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
 
 
 ## Use a `for` loop to read a file line by line
@@ -102,7 +102,7 @@ for line in src_human:
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/2-RepeatingThings/RepeatingThings.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/2-RepeatingThings/RepeatingThings.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
 
 
 ## Manipulating string
@@ -116,7 +116,7 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/2-Rep
 ---
 
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/2-RepeatingThings/RepeatingThings.solutions.md#solution-to-challenge-3">solution to challenge #3<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/2-RepeatingThings/RepeatingThings.solutions.md#solution-to-challenge-3">solution to challenge #3<a/>
 
 
 
