@@ -7,7 +7,6 @@ print a
 <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/1-PythonPrograms/PythonPrograms.md#challenge-2>back<a/>
 
 
-
 #### Solution to challenge #4
 One possible solution
 ```
