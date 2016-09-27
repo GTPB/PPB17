@@ -1,5 +1,4 @@
-<a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers#this-repository-is-for-the-course-materials-and-it-is-organized-as-follows"> Back to Timetable</a>
-
+<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
 
 
 

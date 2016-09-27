@@ -1,3 +1,4 @@
+<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
 
 
 ## NGS analysis: an example of a pipeline
