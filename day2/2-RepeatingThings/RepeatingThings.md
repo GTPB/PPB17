@@ -78,7 +78,7 @@ Why or why not?
 See the <a href="https://github.com/Pfern/BPBR16-Bioinformatics-using-Python-for-Biomedical-Researchers/blob/master/day2/2-RepeatingThings/RepeatingThings.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
 
 
-## You can use a `for` loop to read a file line by line
+## Use a `for` loop to read a file line by line
 ```
 Input_file = open(“my_file.txt”)
 for line in Input_file:
