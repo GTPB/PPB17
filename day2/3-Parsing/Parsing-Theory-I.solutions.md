@@ -9,7 +9,7 @@ for line in seq:
 ```
 
 <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-1">back</a>
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.md">back1</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-1">back1</a>
 
 #### Solution to challenge #2
 
@@ -23,7 +23,7 @@ for line in seq:
 seq_2.close()
 ```
 <a href="https://github.com/ELIXIR-ITA-training/python_course/day2/3-Parsing/Parsing-Theory-I.md#challenge-2">back</a>
-
+href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.md#challenge-2">back1</a>
 
 
 #### Solution to challenge #3
