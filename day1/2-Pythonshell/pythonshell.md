@@ -1,4 +1,4 @@
-<a href="hhttps://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
+<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
 
 
 # The Python Shell
