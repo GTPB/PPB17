@@ -124,11 +124,15 @@ from insulin import insulin
 print insulin
 ```
 <br>
+
+
 > ####  **Challenge #3**
 ---
 >Write a program that reads a sequence from a file and print it to the screen. Run it.
 >
 ---
+
+
 <br>
 
 

@@ -29,4 +29,4 @@ print  elem
 elem =  dna.count ("G")
 print  elem
 ```
-<a href="hhttps://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/1-PythonPrograms/PythonPrograms.md#challenge-4">back<a/>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/1-PythonPrograms/PythonPrograms.md#challenge-4">back<a/>
