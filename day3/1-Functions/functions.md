@@ -272,15 +272,15 @@ item assignment
 ```
 
 ```
-def f(a,b):
-    return a + b, a*b, a – b
+>>> def f(a,b):
+...     return a + b, a*b, a-b
 
-sum, prod, diff = f(20, 2)
-print sum
+>>> sum, prod, diff = f(20, 2)
+>>> print sum
 
-result = f(20, 2)
-print result
-print result[0]
+>>> result = f(20, 2)
+>>> print result
+>>> print result[0]
 ```
 
 It is possible to assign a name to the arguments of a function. In this case, the order is not important
