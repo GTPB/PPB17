@@ -108,12 +108,10 @@ print primary_av, stddev
 out = open('neuron_data-3.txt', 'w')
 
 data1 =  [1, 2, 2, 1, 1, 2, 1, 2, 2]
-data2 = [16.38, 139.90, 441.46, 29.03, 40.93,
-202.07, 142.30, 346.00, 300.00]
+data2 = [16.38, 139.90, 441.46, 29.03, 40.93, 202.07, 142.30, 346.00, 300.00]
 
 for i in xrange(len(data1)):
-    out.write(str(data1[i]) + '\t' +
-    str(data2[i]) + '\n')
+    out.write(str(data1[i]) + '\t' +  str(data2[i]) + '\n')
 out.close()
 ```
 <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.md#challenge-5">back <a/>
