@@ -6,9 +6,9 @@ and prints the list.
 
 '''
 
-InputFile = open("SwissProtHuman.fasta","r")
+InputFile = open("SwissProt-Human.fasta","r")
 
-#Initialise an empty list
+
 AC_list = []
 
 for line in InputFile:
