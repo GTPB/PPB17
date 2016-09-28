@@ -83,7 +83,7 @@ Now try:
 ```
 >>> import sys
 >>> sys.path.append('~/Modules/Day3/Functions\
-... Data&Scripts')
+... Data&Scripts') #check the path on your local machine !!! 
 >>> import tgac
 ```
 
