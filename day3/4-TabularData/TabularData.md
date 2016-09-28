@@ -323,7 +323,7 @@ print data_sorted
 ---
 
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day3/4-TabularData/TabularData.solutions.md#solution-to-challenge-1"> solution to challenge #1<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/4-TabularData/TabularData.solutions.md#solution-to-challenge-1"> solution to challenge #1<a/>
 <br>
 <br>
 
@@ -403,7 +403,7 @@ Secondary 214.723
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day3/4-TabularData/TabularData.solutions.md#solution-to-challenge-2"> solution to challenge #2<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/4-TabularData/TabularData.solutions.md#solution-to-challenge-2"> solution to challenge #2<a/>
 <br>
 <br>
 
@@ -415,7 +415,7 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day3/4-Tab
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day3/4-TabularData/TabularData.solutions.md#solution-to-challenge-3"> solution to challenge #3<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/4-TabularData/TabularData.solutions.md#solution-to-challenge-3"> solution to challenge #3<a/>
 <br>
 <br>
 
@@ -426,7 +426,7 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day3/4-Tab
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day3/4-TabularData/TabularData.solutions.md#solution-to-challenge-4"> solution to challenge #41<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/4-TabularData/TabularData.solutions.md#solution-to-challenge-4"> solution to challenge #41<a/>
 <br>
 <br>
 
@@ -438,7 +438,7 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day3/4-Tab
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day3/4-TabularData/TabularData.solutions.md#solution-to-challenge-5"> solution to challenge #5<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/4-TabularData/TabularData.solutions.md#solution-to-challenge-5"> solution to challenge #5<a/>
 <br>
 <br>
 
@@ -449,7 +449,7 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day3/4-Tab
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day3/4-TabularData/TabularData.solutions.md#solution-to-challenge-6"> solution to challenge #6<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/4-TabularData/TabularData.solutions.md#solution-to-challenge-6"> solution to challenge #6<a/>
 <br>
 <br>
 
@@ -460,6 +460,6 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day3/4-Tab
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day3/4-TabularData/TabularData.solutions.md#solution-to-challenge-7"> solution to challenge #7<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/4-TabularData/TabularData.solutions.md#solution-to-challenge-7"> solution to challenge #7<a/>
 <br>
 <br>
