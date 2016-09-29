@@ -17,6 +17,9 @@
 <img src="../../img/datser8.png" alt="slot" style="width: 300px;"/>
 <img src="../../img/datser9.png" alt="slot" style="width: 300px;"/>
 
+
+Let's give a look to the content of the tgac.py: 
+
 ```
 codonAMINO =  {'GCU':'A','GCC':'A','GCA':'A', 'GCG':'A',
 'CGU':'R','CGC':'R','CGA':'R','CGG':'R','AGA':'R','AGG':'R',
