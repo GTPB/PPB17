@@ -25,7 +25,7 @@ for i in range(0,len(seq),3):
 
 Out.write(prot + '\n')
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/day4/DataSearching/DataSearching.md#challenge-1">back<a/>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/1-DataSearching/DataSearching.md#challenge-1">back<a/>
 <br>
 <br>
 
@@ -47,6 +47,6 @@ for j in range(3):
     Out.write(prot + '\n')
 prot = ''
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/day4/DataSearching/DataSearching.md#challenge-2">back<a/>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/1-DataSearching/DataSearching.md#challenge-2">back<a/>
 <br>
 <br>

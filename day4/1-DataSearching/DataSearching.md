@@ -117,7 +117,7 @@ True
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day4/DataSearching/DataSearching.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/1-DataSearching/DataSearching.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
 <br>
 <br>
 
@@ -128,7 +128,7 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day4/DataS
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day4/DataSearching/DataSearching.solutions.md#solution-to-challenge-1">solution to challenge #2<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/1-DataSearching/DataSearching.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
 <br>
 <br>
 
