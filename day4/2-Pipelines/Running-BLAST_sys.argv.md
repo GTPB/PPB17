@@ -166,7 +166,7 @@ seqs = ['P00519', 'P05480', 'P12931']
 >
 ---
 
-a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/2-Pipelines/Running-BLAST_sys.argv.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/2-Pipelines/Running-BLAST_sys.argv.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
 <br>
 <br>
 
