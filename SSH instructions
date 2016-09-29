@@ -1,4 +1,4 @@
-srv04.recas.ba.infn.it -l pyN
-(N e' il numero del vostro gruppo)  
+ssh -X srv04.recas.ba.infn.it -l pyN
+(N e' il numero del vostro gruppo)
 
 password bari
