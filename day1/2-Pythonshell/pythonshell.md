@@ -129,7 +129,7 @@ make it fast.
 ---
 
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day1/2-Pythonshell/pythonshell.solutions.md#solution-to-challenge-2">Solution to challenge #2</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day1/2-Pythonshell/pythonshell.solutions.md#solution-to-challenge-2">Solution to challenge #2</a>
 <br>
 <br>
 
@@ -154,7 +154,7 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day1/2-Pyt
 
 
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day1/2-Pythonshell/pythonshell.solutions.md#solution-to-challenge-3">Solution to challenge #3</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day1/2-Pythonshell/pythonshell.solutions.md#solution-to-challenge-3">Solution to challenge #3</a>
 <br>
 <br>
 
@@ -220,7 +220,7 @@ ATOM     16  O   VAL A   3      -6.395  14.820   5.357  1.00 19.23           O
 ---
 
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day1/2-Pythonshell/pythonshell.solutions.md#solution-to-challenge-5">Solution to challenge #5</a>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day1/2-Pythonshell/pythonshell.solutions.md#solution-to-challenge-5">Solution to challenge #5</a>
 
 
 
