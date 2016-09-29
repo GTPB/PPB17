@@ -1,3 +1,16 @@
+ac_cancer = open("cancer-expressed.txt")
+
+ac_list = []
+
+for line in ac_cancer:
+    ac = line.strip()
+    ac_list.append(ac)
+
+print ac_list
+    
+
+
+'''
 infile = open("test_sample.fasta")
 
 header = ''
@@ -16,3 +29,4 @@ for line in infile:
 
 AC = header.split('|')[1]
 print 'AC:' + AC + ', length:' + str(len(seq))
+'''
