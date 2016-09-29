@@ -52,6 +52,6 @@ for seq in seqs:
 
 out.close()
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/2-Pipelines/Running-BLAST_sys.argv.md#challenge-3>back<a/>
+<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/2-Pipelines/Running-BLAST_sys.argv.md#challenge-3">back<a/>
 <br>
 <br>
