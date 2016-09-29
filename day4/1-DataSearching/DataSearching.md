@@ -17,6 +17,9 @@
 <img src="../../img/datser8.png" alt="slot" style="width: 300px;"/>
 <img src="../../img/datser9.png" alt="slot" style="width: 300px;"/>
 
+
+Let's give a look to the content of the tgac.py: 
+
 ```
 codonAMINO =  {'GCU':'A','GCC':'A','GCA':'A', 'GCG':'A',
 'CGU':'R','CGC':'R','CGA':'R','CGG':'R','AGA':'R','AGG':'R',
@@ -117,7 +120,7 @@ True
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day4/DataSearching/DataSearching.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/1-DataSearching/DataSearching.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
 <br>
 <br>
 
@@ -128,7 +131,7 @@ See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day4/DataS
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/day4/DataSearching/DataSearching.solutions.md#solution-to-challenge-1">solution to challenge #2<a/>
+See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/1-DataSearching/DataSearching.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
 <br>
 <br>
 
