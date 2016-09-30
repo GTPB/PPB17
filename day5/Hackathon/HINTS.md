@@ -2,7 +2,7 @@
 
 Hints for the whole project 
 
-1. Write a `generate_peptide.py` script whose input is the `nuclear_antigen.fasta` file and output is a fasta file like this: 
+1. Write a `generate_peptide.py` script whose input is the `nuclear_antigen.fasta` file and output is a fasta file (`nuclear_antigen_peptides.fasta`) like this: 
 ```
 >|125985|1
 MAENGDNEKMAALE
@@ -13,7 +13,9 @@ ENGDNEKMAALEAK
 >|125985|4
 ```
 
-where  125985 is the AC number of the original sequence and 1,2,3,4, ... is a counter. Should you find too complicated to write `generate_peptide.py`, there is a copy in the material folder 
+where  125985 is the AC number of the original sequence and 1,2,3,4, ... is a counter. Should you find too complicated to write `generate_peptide.py`, there is an already written copy in the material folder  :) 
+
+2.  Search the peptides in `Plasmodium_falciparum.fasta`. Notice that BLAST can take as input directly a multiple sequence fasta file (e.g. `nuclear_antigen_peptides.fasta`)
 
 
 2. What should the input & output of each function be?
