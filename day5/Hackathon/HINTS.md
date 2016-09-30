@@ -12,6 +12,10 @@ AENGDNEKMAALEA
 ENGDNEKMAALEAK
 >|125985|4
 ```
+
+where  125985 is the AC number of the original sequence and 1,2,3,4, ... is a counter. Should you find too complicated to write `generate_peptide.py`, there is a copy in the material folder 
+
+
 2. What should the input & output of each function be?
 3. Organize different output files in different directories.
 4. How many BLAST databases do you need?
