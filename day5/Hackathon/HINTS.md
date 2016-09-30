@@ -2,7 +2,7 @@
 
 Hints for the whole project 
 
-1. Write a `generate_peptide.py` script whose input is the nuclear_antigen.fasta file and output is a fasta file
+1. Write a `generate_peptide.py` script whose input is the `nuclear_antigen.fasta` file and output is a fasta file like this: 
 ```
 >|125985|1
 MAENGDNEKMAALE
