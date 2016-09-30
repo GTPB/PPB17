@@ -1,7 +1,17 @@
 <a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
 
+Hints for the whole project 
 
-1. Create 4 empty functions first.
+1. Write a `generate_peptide.py` script whose input is the nuclear_antigen.fasta file and output is a fasta file
+```
+>|125985|1
+MAENGDNEKMAALE
+>|125985|2
+AENGDNEKMAALEA
+>|125985|3
+ENGDNEKMAALEAK
+>|125985|4
+```
 2. What should the input & output of each function be?
 3. Organize different output files in different directories.
 4. How many BLAST databases do you need?
@@ -9,4 +19,5 @@
 6. os.listdir(directory_name) --> list of file names
 7. Make BLAST database --> page 433
 8. BLAST output option -outfmt 6 --> output as a table
-9. The best score is in the first line, last column of the BLAST output file.10.The file.readline() function just reads the first line of the file.
+9. The best score is in the first line, last column of the BLAST output file.
+10.The file.readline() function just reads the first line of the file.
