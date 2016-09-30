@@ -15,15 +15,16 @@ ENGDNEKMAALEAK
 
 where  125985 is the AC number of the original sequence and 1,2,3,4, ... is a counter. Should you find too complicated to write `generate_peptide.py`, there is an already written copy in the material folder  :) 
 
-2.  Search the peptides in `Plasmodium_falciparum.fasta`. Notice that BLAST can take as input directly a multiple sequence fasta file (e.g. `nuclear_antigen_peptides.fasta`)
+2.  Search the peptides in the P.falciparum proteome file (`Plasmodium_falciparum.fasta`). The proteome is in fasta format: don't forget to format it for BLAST using this command line: 
 
+```
+makebalstdb -in my_db_file.fasta  -dbtype prot 
 
-2. What should the input & output of each function be?
-3. Organize different output files in different directories.
-4. How many BLAST databases do you need?
-5. What blastp options create a good output format?
-6. os.listdir(directory_name) --> list of file names
-7. Make BLAST database --> page 433
-8. BLAST output option -outfmt 6 --> output as a table
-9. The best score is in the first line, last column of the BLAST output file.
-10.The file.readline() function just reads the first line of the file.
+```
+
+`-dbtype` specifies the type of input molecules (`nucl`or `prot`) 
+
+Notice that BLAST can take as input directly a multiple sequence fasta file (e.g. `nuclear_antigen_peptides.fasta`).
+
+3. The BLAST output option `-outfmt 6` yelds output in tabular format where the best score is in the last column. 
+
