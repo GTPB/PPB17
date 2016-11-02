@@ -10,19 +10,17 @@
 <img src="../../img/pm1.png" alt="slot" style="width: 100px;"/>
 <img src="../../img/pm2.png" alt="slot" style="width: 100px;"/>
 
-- A program or script can be considered as a module that contains both definitions and “actions”
-
 - Python code can be written in two different "containers":
   - Interactive interpreter
   - Modules or programs
-
-- When you ```import``` a module, Python reads and executes each line contained therein.
 
 - In general, we will call **modules** text files containing definitions (of variables, functions, classes)
 
 - We will call **programs** or **scripts** text files containing definitions AND actions. 
 
 - You will **run programs** and **import modules**.
+
+- When you ```import``` a module, Python reads and executes each line contained therein.
 
 - It is good practice to write small re-usable pieces of code in separate modules.
 
