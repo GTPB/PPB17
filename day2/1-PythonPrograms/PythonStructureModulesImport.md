@@ -3,8 +3,8 @@
 ## The Python structure - Vocabulary, tips and comments
 
 - Python code can be written in two different "containers":
-  - Interactive interpreter
-  - Modules or programs
+  - Interactive interpreter (not permanent)
+  - Modules or programs (permanent)
  
 - The content of a module can be used in a script (or in a different module) by importing the module
 
@@ -14,9 +14,9 @@
 
 - Inside modules you can define other containers: classes and functions.
 
-- Modules are containers for data, functions and classes. 
+- More in general, modules are containers for data, functions and classes. 
 
-- In general, we will call **modules** text files containing definitions (of data, functions, classes)
+- In other words, we will call **modules** text files containing definitions of data (through variable's assignment), functions and classes.
 
 - We will call **programs** or **scripts** text files containing definitions AND actions. 
 
@@ -33,15 +33,17 @@
 <img src="../../img/pm6.png" alt="slot" style="width: 100px;"/>
 <img src="../../img/pm7.png" alt="slot" style="width: 100px;"/>
 
-## The "matryoshka doll like" structure of Python
+# The matryoshka doll-like structure of Python
 
 <img src="../../img/pm8.png" alt="slot" style="width: 100px;"/>
+
 
 #### module.class.method()
 #### module.method()
 #### class.method()
 #### module.variable
 #### module.class.variable
+
 
 
 ## Challenge
