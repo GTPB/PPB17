@@ -2,19 +2,21 @@
 
 ## The Python structure - Vocabulary, tips and comments
 
-- Modules are containers for data and functions
-
+- Python code can be written in two different "containers":
+  - Interactive interpreter
+  - Modules or programs
+ 
 - The content of a module can be used in a script (or in a different module) by importing the module
 
 - Scripts, programs, modules can be  written in text files.
 <img src="../../img/pm1.png" alt="slot" style="width: 100px;"/>
 <img src="../../img/pm2.png" alt="slot" style="width: 100px;"/>
 
-- Python code can be written in two different "containers":
-  - Interactive interpreter
-  - Modules or programs
+- Inside modules you can define other containers: classes and functions.
 
-- In general, we will call **modules** text files containing definitions (of variables, functions, classes)
+- Modules are containers for data, functions and classes. 
+
+- In general, we will call **modules** text files containing definitions (of data, functions, classes)
 
 - We will call **programs** or **scripts** text files containing definitions AND actions. 
 
@@ -22,9 +24,7 @@
 
 - When you ```import``` a module, Python reads and executes each line contained therein.
 
-- It is good practice to write small re-usable pieces of code in separate modules.
-
-- Inside modules you can define other containers: classes and functions
+- It is good practice to write small re-usable pieces of code in separate modules and connect them through the ```import``` statement and the **dot syntaxt**.
 
 - The objects contained in modules (and, if you want to, in classes and functions) are: data structures; variable definitions; operators; control flow statements.
 
@@ -33,7 +33,7 @@
 <img src="../../img/pm6.png" alt="slot" style="width: 100px;"/>
 <img src="../../img/pm7.png" alt="slot" style="width: 100px;"/>
 
-## The structure of Python
+## The "matryoshka doll like" structure of Python
 
 <img src="../../img/pm8.png" alt="slot" style="width: 100px;"/>
 
