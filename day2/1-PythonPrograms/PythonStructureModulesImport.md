@@ -15,7 +15,7 @@ The content of a module can be used in a script (or in a different module) by im
 
 
 
-#### A program or script can be considered a module that contains both definitions and “actions”
+#### A program or script can be considered as a module that contains both definitions and “actions”
 
 -   Open a text file using gedit
 -   Write:`print "My name is:", "myname"`
