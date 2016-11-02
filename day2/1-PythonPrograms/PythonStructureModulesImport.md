@@ -1,15 +1,11 @@
 <a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
 
-
 #Modules are containers for data and functions
 
 The content of a module can be used in a script (or in a different module) by importing the module
 
 <img src="../../img/pm1.png" alt="slot" style="width: 100px;"/>
-
-
 <img src="../../img/pm2.png" alt="slot" style="width: 100px;"/>
-
 
 #### In Python, a program (or a script) can be also written in the interactive interpreter
 
@@ -33,8 +29,9 @@ Try the following:
 > -    Go to your home directory using the command-line interface
 > -    Type: `python my_first_run.py`
 
+#### The Python structure - Tips and comments
 
-- When you import a module, Python reads and executes each line contained therein.
+- When you ```import``` a module, Python reads and executes each line contained therein.
 
 - In general, we will call modules text files containing definitions (variables, functions, classes)
 
@@ -52,7 +49,6 @@ Try the following:
 
 - The objects contained in modules (and, if you want to, in classes and functions) are: data structures; variable definitions; operators; control flow statements.
 
-
 ## The “dot” syntax
 
 <img src="../../img/pm5.png" alt="slot" style="width: 100px;"/>
@@ -61,9 +57,9 @@ Try the following:
 
 <img src="../../img/pm7.png" alt="slot" style="width: 100px;"/>
 
-## The structure of python
-<img src="../../img/pm8.png" alt="slot" style="width: 100px;"/>
+## The structure of Python
 
+<img src="../../img/pm8.png" alt="slot" style="width: 100px;"/>
 
 #### module.class.method()
 #### module.method()
