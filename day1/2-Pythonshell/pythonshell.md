@@ -1,4 +1,4 @@
-<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
 
 
 # The Python Shell
@@ -129,7 +129,7 @@ make it fast.
 ---
 
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day1/2-Pythonshell/pythonshell.solutions.md#solution-to-challenge-2">Solution to challenge #2</a>
+See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/2-Pythonshell/pythonshell.solutions.md#solution-to-challenge-2">Solution to challenge #2</a>
 <br>
 <br>
 
