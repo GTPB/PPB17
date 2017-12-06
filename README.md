@@ -20,10 +20,10 @@ The course will be highly interactive and the students will continuously put the
 
 Days |Lessons \& Tutorials | Data \& Scripts |
 ------------ | ------------- | ------------- |
-day 1 | [Intro](day1/intro.md), [Unix/Linux command line](day1/1-Unix/Unix-Theory-BPBR16.md), [Python Shell](day1/2-Pythonshell/pythonshell.md), [Python Programs](day2/1-PythonPrograms/PythonPrograms.md)|[Unix Tutorial](day1/1-Unix/unix_tutorial.zip), [Python Shell](day1/2-Pythonshell/d1_pyshell_data_scripts), [Python Programming](day2/1-PythonPrograms/d2_programing_data_scripts) |
+day 1 | [Intro](day1/intro.md), [Unix/Linux command line](day1/1-Unix/Unix-Theory-PPb17.md), [Python Shell](day1/2-Pythonshell/pythonshell.md), [Functions](day1/3-Functions/functions.md),[Python Programs](day2/1-PythonPrograms/PythonPrograms.md)|[Unix Tutorial](day1/1-Unix/unix_tutorial.zip), [Python Shell](day1/2-Pythonshell/d1_pyshell_data_scripts), [Functions](day1/1-Functions/d3_functions_data_scripts), [Python Programming](day2/1-PythonPrograms/d2_programing_data_scripts) |
 day 2 | [Repeating Things](day2/2-RepeatingThings/RepeatingThings.md), [Structures and Modules](day2/1-PythonPrograms/PythonStructureModulesImport.md), [File Formats](day2/3-Parsing/FileFormats.md),  [Parsing I](day2/3-Parsing/Parsing-Theory-I.md), [Parsing II](day2/3-Parsing/Parsing-Theory-II.md)   |  [Repeating Things](day2/2-RepeatingThings/d2_repeating_data_scripts), [Parsing](day2/3-Parsing/d2_parsing_data_script) |
-day 3 |[Functions](day3/1-Functions/functions.md),  [Best Practices](day3/2-Debugging/BestPracticesInProgramming.md), [Error Handling](day3/2-Debugging/ErrorHandling.md),  [Data Columns](day3/3-DataColumns/DataColumns.md), [Tabular Data](day3/4-TabularData/TabularData.md) | [Functions](day3/1-Functions/d3_functions_data_scripts), [Data Columns](day3/3-DataColumns/d3_datacolumns_data_scripts), [Tabular Data](day3/4-TabularData/d3_tabulardata_data_scripts)   |
-day 4 |[Data Searching](day4/1-DataSearching/DataSearching.md), [Python libraries](day4/3-PythonLibraries/tasks.md) |[Data Searching](day4/1-DataSearching/d4_datasearching_data_scripts) |
+day 3 |  [Best Practices](day3/2-Debugging/BestPracticesInProgramming.md), [Error Handling](day3/2-Debugging/ErrorHandling.md),  [Data Columns](day3/3-DataColumns/DataColumns.md), [Tabular Data](day3/4-TabularData/TabularData.md) | [Data Columns](day3/3-DataColumns/d3_datacolumns_data_scripts), [Tabular Data](day3/4-TabularData/d3_tabulardata_data_scripts)   |
+day 4 |[Data Searching](day4/1-DataSearching/DataSearching.md), [Python libraries](day4/2-PythonLibraries/tasks.md) |[Data Searching](day4/1-DataSearching/d4_datasearching_data_scripts) |
 
 
 
