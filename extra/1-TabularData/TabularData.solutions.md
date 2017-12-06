@@ -150,6 +150,8 @@ outfile = open("table100.txt", "w")
 for row in empty_table:
     outfile.write('\t'.join(row) + '\n')
 outfile.close()
-```<a href="https://github.com/joanamarques/python_course/blob/master/extra/1-TabularData/TabularData.md#challenge-7"> back<a/>
+```
+
+<a href="https://github.com/joanamarques/python_course/blob/master/extra/1-TabularData/TabularData.md#challenge-7"> back<a/>
 <br>
 <br>
