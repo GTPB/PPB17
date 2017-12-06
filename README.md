@@ -31,4 +31,4 @@ day 4 |[Data Searching](day4/1-DataSearching/DataSearching.md), [Python librarie
 
 
 ### This course was taught at:
--  [PPB17](http://http://gtpb.igc.gulbenkian.pt/bicourses/PPB17/) November 27-30<br/>
+-  [PPB17](http://gtpb.igc.gulbenkian.pt/bicourses/PPB17/) November 27-30<br/>
