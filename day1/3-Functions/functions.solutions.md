@@ -14,7 +14,7 @@ def triangle_area(b, h):
 
 print triangle_area(2.28, 3.55)
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.md#challenge-1">back</a>
+<a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.md#challenge-1">back</a>
 <br>
 <br>
 
@@ -29,7 +29,7 @@ def get_values(arg1, arg2):
 
 print get_values(15, 8)
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.md#challenge-2">back</a>
+<a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.md#challenge-2">back</a>
 <br>
 <br>
 
@@ -51,7 +51,7 @@ p2 = (45.83, 31.11, 92.04)
 
 print "Distance:", distance(p1, p2)
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.md#challenge-3">back</a>
+<a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.md#challenge-3">back</a>
 <br>
 <br>
 
@@ -66,7 +66,7 @@ def return_header(filename):
 
 print return_header('SingleSeq.fasta')
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.md#challenge-4">back</a>
+<a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.md#challenge-4">back</a>
 <br>
 <br>
 
@@ -86,7 +86,7 @@ filenames = ['SingleSeq1.fasta',
 for name in filenames:
     print return_header(name)
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.md#challenge-5">back</a>
+<a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.md#challenge-5">back</a>
 <br>
 <br>
 
@@ -131,35 +131,6 @@ for name in filenames:
 
 output.close()
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.md#challenge-6">back</a>
-<br>
-<br>
-
-#### Solution to challenge #7
-
-```
-def genbank2fasta(filename):
-    name = filename.split('.')[0]
-    InputFile = open(filename)
-    OutputFile = open(name + ".fasta","w")
-    flag = 0
-    for line in InputFile:
-        if line[0:9] == 'ACCESSION':
-            AC = line.split()[1].strip()
-            OutputFile.write('>'+AC+'\n')
-        if line[0:6] == 'ORIGIN':
-            flag = 1
-            continue
-        if flag == 1:
-            fields = line.split()
-            if fields != []:
-                seq = ''.join(fields[1:])
-                OutputFile.write(seq +'\n')
-OutputFile.close()
-
-filename = "ap006852.gbk"
-genbank2fasta(filename)
-```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.md#challenge-7">back</a>
+<a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.md#challenge-6">back</a>
 <br>
 <br>
