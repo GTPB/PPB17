@@ -1,7 +1,5 @@
 <a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
 
-#Python for Life Scientists: Managing biological data with Python
-
 
 ### In this course you will learn to:
 
@@ -29,10 +27,6 @@ Therefore your future as programmers strongly depends on your will to not stop p
 + discuss exercise solutions
 + teach
 
-### Hackathon
-
-A **hackathon** (also known as a hack day, hackfest or codefest) is an event in which computer programmers and others involved in software development collaborate intensively on software projects (see [Wikipedia](https://en.wikipedia.org/wiki/Hackathon))
-
 # Getting started
 
 
@@ -40,13 +34,13 @@ A **hackathon** (also known as a hack day, hackfest or codefest) is an event in 
 #### What are your expectations?
 
 
-
 ---
 Challenge
 
 > What do you need programming for?
 > What would you like to take home from the course?
->Write on a card
+>
+Write on a card
 >
 >Finish within 7 minutes
 >
