@@ -22,9 +22,14 @@ Days |Lessons \& Tutorials | Data \& Scripts |
 ------------ | ------------- | ------------- |
 day 1 | [Intro](day1/intro.md), [Unix/Linux command line](day1/1-Unix/Unix-Theory-PPB17.md), [Python Shell](day1/2-Pythonshell/pythonshell.md), [Functions](day1/3-Functions/functions.md)|[Unix Tutorial](day1/1-Unix/d1_unix_data_scripts/unix_tutorial.zip), [Functions](day1/3-Functions/d3_functions_data_scripts) |
 day 2 | [Python Programs](day2/1-PythonPrograms/PythonPrograms.md), [Repeating Things](day2/2-RepeatingThings/RepeatingThings.md), [Parsing I](day2/3-Parsing/Parsing-Theory-I.md), [Parsing II](day2/3-Parsing/Parsing-Theory-II.md)   | [Python Programming](day2/1-PythonPrograms/d2_programing_data_scripts), [Repeating Things](day2/2-RepeatingThings/d2_repeating_data_scripts), [Parsing](day2/3-Parsing/d2_parsing_data_script) |
-day 3 |  [Best Practices](day3/2-Debugging/BestPracticesInProgramming.md), [Error Handling](day3/2-Debugging/ErrorHandling.md),  [Data Columns](day3/3-DataColumns/DataColumns.md), [Tabular Data](day3/4-TabularData/TabularData.md) | [Data Columns](day3/3-DataColumns/d3_datacolumns_data_scripts), [Tabular Data](day3/4-TabularData/d3_tabulardata_data_scripts)   |
+day 3 |  [Data Columns](day3/3-DataColumns/DataColumns.md) | [Data Columns](day3/3-DataColumns/d3_datacolumns_data_scripts) |
 day 4 |[Data Searching](day4/1-DataSearching/DataSearching.md), [Python libraries](day4/2-PythonLibraries/tasks.md) |[Data Searching](day4/1-DataSearching/d4_datasearching_data_scripts) |
 
+
+
+#### Extra materials
+
+You can also find some extra lessons on [Tabular Data](extra/1-TabularData/TabularData.md), [Debugging](extra/2-Debugging/BestPracticesInProgramming.md) and [Error Handling](day3/2-Debugging/ErrorHandling.md).
 
 
 =======
