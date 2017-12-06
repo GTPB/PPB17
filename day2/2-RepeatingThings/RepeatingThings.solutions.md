@@ -9,7 +9,7 @@ print seq
 for aa in seq:
   print aa
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/2-RepeatingThings/RepeatingThings.md#challenge-1">back<a/>
+<a href="https://github.com/joanamarques/python_course/blob/master/day2/2-RepeatingThings/RepeatingThings.md#challenge-1">back<a/>
 
 
 #### Solution to challenge #2
@@ -19,7 +19,7 @@ telomerase = open("telomerase.txt")
 for line in telomerase:
   print line
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/2-RepeatingThings/RepeatingThings.md#challenge-2">back<a/>
+<a href="https://github.com/joanamarques/python_course/blob/master/day2/2-RepeatingThings/RepeatingThings.md#challenge-2">back<a/>
 
 
 #### Solution to challenge #3
@@ -33,4 +33,4 @@ for aa in "ACDEFGHKILMNPQRSTVYW":
   aa_freq = aa_count/float(len(seq))
   print aa, round(aa_freq, 3)
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day2/2-RepeatingThings/RepeatingThings.md#challenge-3">back<a/>
+<a href="https://github.com/joanamarques/python_course/blob/master/day2/2-RepeatingThings/RepeatingThings.md#challenge-3">back<a/>
