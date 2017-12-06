@@ -71,7 +71,7 @@ print triangle_area.__doc__
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
+See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
 <br>
 <br>
 
