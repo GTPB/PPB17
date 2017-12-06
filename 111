@@ -1,6 +1,0 @@
-Filesystem                        512-blocks      Used Available Capacity  iused   ifree %iused  Mounted on
-/dev/disk0s2                       488555536 433619256  54424280    89% 54266405 6803035   89%   /
-devfs                                    365       365         0   100%      633       0  100%   /dev
-map -hosts                                 0         0         0   100%        0       0  100%   /net
-map auto_home                              0         0         0   100%        0       0  100%   /home
-localhost:/nx3VvWuP_dnEEjeMEuNGFR  488555536 488555536         0   100%        0       0  100%   /Volumes/MobileBackups
