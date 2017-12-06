@@ -8,7 +8,7 @@ print V
 in this case we import a specific object from math instead of importing the whole `math` module <br>
 Advantages: if the module is big and we need only one  function; we not using the "." syntax and the name of the variable pi is shorter!  
 
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day1/2-Pythonshell/pythonshell.md#challenge-2
+<a href="https://github.com/joanamarques/python_course/blob/master/day1/2-Pythonshell/pythonshell.md#challenge-2
 ">back<a/>
 
 <br>
@@ -29,28 +29,5 @@ z2 = 92.04
 dist = math.sqrt((x1-x2)**2 + (y1-y2)**2 + (z1-z2)**2)
 print dist
 ```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day1/2-Pythonshell/pythonshell.md#challenge-3
+<a href="https://github.com/joanamarques/python_course/blob/master/day1/2-Pythonshell/pythonshell.md#challenge-3
 ">back<a/>
-
-<br>
-<br>
-
-#### Solution to challenge #5
-```
-import math
-
-ATP = 3.5
-ADP = 1.8
-Pi = 5.0
-R = 0.00831
-T = 298
-deltaG0 = -30.5
-
-deltaG = deltaG0 + R * T * math.log(ADP * Pi / ATP)
-
-print deltaG
-```
-<a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day1/2-Pythonshell/pythonshell.md#challenge-5
-">back<a/>
-
-<br>
