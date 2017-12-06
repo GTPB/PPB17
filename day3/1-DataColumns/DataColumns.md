@@ -1,4 +1,4 @@
-<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
 
 
 # Data columns
@@ -68,7 +68,7 @@ and the file `neuron_data-2.txt` that contains the same data plus an extra colum
 
 ---
 
-See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-1"> challenge #1<a/>
+See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-1"> challenge #1<a/>
 <br>
 <br>
 
@@ -80,7 +80,7 @@ See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_cours
 >
 ---
 
-See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-2"> challenge #2<a/>
+See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-2"> challenge #2<a/>
 <br>
 <br>
 
@@ -101,7 +101,7 @@ See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_cours
 >
 ---
 
-See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-3"> challenge #3<a/>
+See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-3"> challenge #3<a/>
 <br>
 <br>
 
@@ -115,7 +115,7 @@ of the neuron length.
 >
 ---
 
-See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-4"> challenge #4<a/>
+See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-4"> challenge #4<a/>
 <br>
 <br>
 
@@ -160,7 +160,7 @@ out.close()
 >
 ---
 
-See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-5"> challenge #5<a/>
+See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-5"> challenge #5<a/>
 <br>
 <br>
 
@@ -195,7 +195,7 @@ print  S.format (a,  math.sqrt(a))
 >
 ---
 
-See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-6"> challenge #6<a/>
+See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-6"> challenge #6<a/>
 <br>
 <br>
 
@@ -222,6 +222,6 @@ See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_cours
 >
 ----
 
-See the solution to <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-7"> challenge #7<a/>
+See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-7"> challenge #7<a/>
 <br>
 <br>
