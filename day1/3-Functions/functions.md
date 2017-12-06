@@ -1,99 +1,5 @@
-<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
 
-
-
-# Builtins, namespaces, functions
-
-## Python built-ins
-There are objects that are predefined in Python
-
-- Statements: for,in,import,…
-- Numbers: 3, 16.2,…
-- Strings: ‘AUG
-- Functions: `dir()`, `lower()`,…
-
-When you use something without defining it, it means
-that you are using a **built-in** object
-
-## Namespaces
-
-The collection of object names defined in a module represents the global **namespace** of that module
-
-Each module defines its own namespace.
-
-
-The same name (e.g. `src`) in two different modules (e.g. `module_1.py` and `module_2.py`), indicates two distinct objects and the dot syntax makes it possible to avoid confusion between the namespaces of the two modules
-
-
-> `Module_1.src`  is NOT the same as   `Module_2.src`
-
-
-
-## Import
-
-What actually happens when the command **import** is executed?
-
-The code written in the imported module is entirely interpreted and **the module global namespace is imported as well**
-
-
-**Where** the Python interpreter searches a module when you import it?
-
-
-**Where**  do  you  have  to  save  a  module  in  order  the interpreter can find it?
-
-- The module can be saved in the same directory of the
-script importing it
-
-- The module path can be added to the list of directories
-where the **Python interpreter** automatically search things
-
-
-It is not the same list of directories where Unix
-automatically search things.
-
-It is a list contained in the variable **`path`** of the special module **`sys`**
-
-```
->>> import sys
->>> sys.path
-['','/System/Library/Frameworks/Python.frame
-work/Versions/2.5/lib/python25.zip','/System
-/Library/Frameworks/Python.framework/Version
-s/2.5/Extras/lib/python','/Library/Python/2.
-5/site-packages']
->>>
-```
-
-
-Check that the `tgac.py` module is in one of your subdirectories (should be in `~/day3/1-Functions/d3_functions_data_scripts`)
-
-Go to a different directory (e.g. `~/day3/1-Functions`)
-
-Start the interpreter and type:
-
-```
->>>import tgac
-```
-
-What happens?
-
-
-Now try:
-
-```
->>> import sys
->>> sys.path.append('~/Modules/Day3/Functions\
-... Data&Scripts') #check the path on your local machine !!! 
->>> import tgac
-```
-
-## The built-in function `dir()`
-
-`dir()` returns a list of the names defined in the namespace of an object
-
-```
->>>dir(tgac)
-```
 
 ## Functions
 
@@ -128,7 +34,7 @@ In order to use a function, you have first to define it and then to call it
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
+See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
 <br>
 <br>
 
@@ -325,7 +231,7 @@ Write a function that takes as arguments two points [x1, y1, z1] and [x2, y2, z2
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.solutions.md#solution-to-challenge-3">solution to challenge #3<a/>
+See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-3">solution to challenge #3<a/>
 <br>
 <br>
 
@@ -341,7 +247,7 @@ Write a function that :
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.solutions.md#solution-to-challenge-4">solution to challenge #4<a/>
+See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-4">solution to challenge #4<a/>
 <br>
 <br>
 
@@ -352,7 +258,7 @@ Insert the function call in a for loop running on a list of 3 sequence file name
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.solutions.md#solution-to-challenge-5">solution to challenge #5<a/>
+See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-5">solution to challenge #5<a/>
 <br>
 <br>
 
@@ -366,18 +272,7 @@ Consider two output schemes for exercise 4:
 ---
 
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.solutions.md#solution-to-challenge-6">solution to challenge #6<a/>
-<br>
-<br>
-
-
-> ####  **Challenge #7**
----
->Write a function that takes as argument a Genbank record and returns the nucleotide sequence in FASTA format.
->
----
-
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day3/1-Functions/functions.solutions.md#solution-to-challenge-7">solution to challenge #7<a/>
+See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-6">solution to challenge #6<a/>
 <br>
 <br>
 
