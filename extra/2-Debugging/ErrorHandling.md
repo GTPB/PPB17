@@ -43,7 +43,7 @@ else:
 [Built-in exceptions](https://docs.python.org/2/library/exceptions.html)
 
 
-``
+```
 
 def main(data):
     print data
@@ -56,6 +56,7 @@ except ImportError:
     raise SystemExit
 else:
     main(data)
-``
+```
+
 
 <a href="https://github.com/joanamarques/python_course"> Back to Timetable </a>
