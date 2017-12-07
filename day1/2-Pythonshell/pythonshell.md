@@ -118,8 +118,10 @@ Find the matching pairs of functions and x/y values.
 make it fast.
 
 <br>
-> **Challenge #2**
+
 ---
+> **Challenge #2**
+>
 >+   The diameter of a cell is 10 μm.
 >+ What volume does that cell have given it is a perfect sphere?
 >+  Use Python to do the calculation.
