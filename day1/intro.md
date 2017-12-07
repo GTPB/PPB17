@@ -54,4 +54,4 @@ Write on a card
 
 Each slot is organised as follows:
 
-<img src="../img/slot2017.png" alt="slot" style="width: 100px;"/>
+<img src="../img/slot2017.png" alt="slot" style="width: 100px;" align="center"/>
