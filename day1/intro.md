@@ -1,4 +1,4 @@
-<a href="https://github.com/joanamarques/python_course/README.md#Timetable"> Back to Timetable</a>
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
 
 
 ### In this course you will learn to:
@@ -56,4 +56,4 @@ Each slot is organised as follows:
 
 <img src="../img/slot2017.png" alt="slot" style="width: 100px;" align="center"/>
 
-<a href="https://github.com/joanamarques/python_course#Timetable"> Back to Timetable</a>
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
