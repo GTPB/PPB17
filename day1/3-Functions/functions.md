@@ -30,9 +30,10 @@ In order to use a function, you have first to define it and then to call it
 >-  Write a function triangle_area(b, h) that returns the area of a triangle
 >-    Call the function for b = 2.28 and h = 3.55
 >-    Print the result
-<img src="../../img/triangle.png" alt="slot" style="width: 300px;"/>
 >
 ---
+
+<img src="../../img/triangle.png" alt="slot" style="width: 300px;"/>
 
 See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
 <br>
