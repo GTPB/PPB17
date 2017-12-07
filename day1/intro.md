@@ -1,4 +1,4 @@
-<a href="https://github.com/joanamarques/python_course#Timetable"> Back to Timetable</a>
+<a href="https://github.com/joanamarques/python_course/README.md#Timetable"> Back to Timetable</a>
 
 
 ### In this course you will learn to:
