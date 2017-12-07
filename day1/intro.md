@@ -50,7 +50,7 @@ Write on a card
 
 ## How is going to work
 
-<img src="../img/Timetable2017_2.png" alt="slot" style="width: 100px;"/>
+<img src="../img/Timetable2017v3.png" alt="slot" style="width: 100px;"/>
 
 Each slot is organised as follows:
 
