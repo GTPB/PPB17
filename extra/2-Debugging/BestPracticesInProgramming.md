@@ -20,7 +20,6 @@ The [Software Carpentry](https://software-carpentry.org) Foundation is a non-pro
 
 Software carpentry methods focuse on small-scale and immediately practical issues.
 
-<center>
 It will help you:<br/>
 Become faster and more efficient<br/>
 Share your work without pain<br/>
@@ -29,8 +28,8 @@ Collaborate more effectively<br/>
 Reproduce your results**<br/>
 In other words…<br/>
 **Do a better science**<br/>
-Source[Software Carpentry](https://software-carpentry.org)<br/>
-</center>
+
+[Source](https://software-carpentry.org) <br/>
 
 
 ## Best practices to write better programs (or entire projects)
@@ -56,13 +55,12 @@ Good scientists do not perform experiments before developing a hypothesis and pl
 
 > **Before the first line of code is written, software projects should be thoughtfully designed**
 
-<center>
-*Prior Planning and Preparation Prevents “Pretty” Poor Performance*
-[military seven Ps rule](https://en.wikipedia.org/wiki/7_Ps_%28military_adage%29)<br/>
+**Prior Planning and Preparation Prevents “Pretty” Poor Performance**
+
+[military seven Ps rule](https://en.wikipedia.org/wiki/7_Ps_%28military_adage%29) <br/>
 
 
 Amfahr J, Bustamante A, Rome P. Exploring Agile: The Seapine Agile Expedition
-</center>
 
 
 ### How much design?
@@ -137,7 +135,7 @@ with a single line of well-readable code.**
 
 Write programs in such a way that errors are easy to find
 
->*“Today I had a successful day at programming: I deleted 300 lines of code.”**
+>*"Today I had a successful day at programming: I deleted 300 lines of code.”*
 >(Lorenzo Catucci)
 
 
@@ -178,14 +176,14 @@ An acceptable level of documentation might provide:
 
 
 ### Use data standard
-<center>
+
 Input and output of your programs should comply community-accepted data standards<br/>
 
 If these are not available<br/>
 
 
-Store format information in the data itself
-<center/>
+**Store format information in the data itself**
+
 
 i.e. include documentation (metadata) describing the data
 +   Format of the data
@@ -260,3 +258,5 @@ you actually want to transform, and eyeballing the results
 
 -   In more complex situations, you may select subsets of your
 actual data, and make sure that they’re handled correctly.
+
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
