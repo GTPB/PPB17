@@ -68,8 +68,9 @@ print dna.count("G")
 ```
 Why or why not?
 
-> ####  **Challenge #1**
 ---
+> ####  **Challenge #1**
+>
 >Retrieve the 1132-residue sequence of human telomerase reverse transcriptase isoform 1 from the NCBI protein database. Choose the FASTA format. Copy the sequence to a text file (`telomerase.txt`). Write a program that reads the telomerase.txt file and prints first the whole sequence and then the sequence residue by residue.
 >
 ----
@@ -95,9 +96,9 @@ for line in src_human:
   print line,
 ```
 
-
-> ####  **Challenge #2**
 ---
+> ####  **Challenge #2**
+>
 > Write a file and program that reads the `telomerase.txt` prints its content line by line.
 >
 ---
@@ -105,12 +106,11 @@ for line in src_human:
 See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/2-RepeatingThings/RepeatingThings.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
 
 
-## Manipulating string
 <img src="../../img/pp8.png" alt="slot" style="width: 100px;"/>
 
-
-> ####  **Challenge #3**
 ---
+> ####  **Challenge #3**
+>
 > Which amino acid is the most frequent in the sequence of the telomerase reverse transcriptase isoform 1?
 >
 ---
@@ -122,3 +122,5 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 
 ### Recap
 <img src="../../img/pp9.png" alt="slot" style="width: 100px;"/>
+
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
