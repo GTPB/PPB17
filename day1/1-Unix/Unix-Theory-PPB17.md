@@ -391,3 +391,5 @@ $ ls ~/oeiras
 
 ## Redirection
 ![tab49](../../img/t49.png)
+
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
