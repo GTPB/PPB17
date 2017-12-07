@@ -62,25 +62,25 @@ and the file `neuron_data-2.txt` that contains the same data plus an extra colum
 - `str()`  Converts an object into a string
 - `repr()` Converts an object into a string
 
+---
 > ####  **Challenge #1**
----
+>
 > Write a program that reads the file with neuron lengths (neuron_data.txt) and stores neuron lengths as floating point numbers into a list.
-
 ---
 
-See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-1"> challenge #1<a/>
+See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/1-DataColumns/DataColumns.solutions.md#solution-to-challenge-1"> challenge #1<a/>
 <br>
 <br>
 
 
-
+---
 > ####  **Challenge #2**
----
+>
 > Extend the program so that it read data form `neuron_data-2.txt` and  stores primary and secondary neuron lengths to different lists.
 >
 ---
 
-See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-2"> challenge #2<a/>
+See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/1-DataColumns/DataColumns.solutions.md#solution-to-challenge-2"> challenge #2<a/>
 <br>
 <br>
 
@@ -94,28 +94,27 @@ See the solution to <a href="https://github.com/joanamarques/python_course/blob/
 <img src="../../img/builtin.png" alt="slot" style="width: 300px;"/>
 
 
-
-> ####  **Challenge #3**
 ---
+> ####  **Challenge #3**
+>
 >Extend program 2 so that it calculates the neuron length average separately for primary and secondary neurons. Print the two averages: which neurons are on average longer?
 >
 ---
 
-See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-3"> challenge #3<a/>
+See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/1-DataColumns/DataColumns.solutions.md#solution-to-challenge-3"> challenge #3<a/>
 <br>
 <br>
 
 
 
-
-> ####  **Challenge #4**
 ---
-Extend program 3 so that it calculates the standard deviation
-of the neuron length.
+> ####  **Challenge #4**
+>
+>Extend program 3 so that it calculates the standard deviation of the neuron length.
 >
 ---
 
-See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-4"> challenge #4<a/>
+See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/1-DataColumns/DataColumns.solutions.md#solution-to-challenge-4"> challenge #4<a/>
 <br>
 <br>
 
@@ -153,14 +152,14 @@ out.write(str(1) + '\t' + str(16.38) + '\n')
 out.close()
 ```
 
-
-> ####  **Challenge #5**
 ---
+> ####  **Challenge #5**
+>
 >Use two lists with data from `neuron_data-2.txt` to write a table identical to `neuron_data-2.txt`.  Do it using **string concatenation**.
 >
 ---
 
-See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-5"> challenge #5<a/>
+See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/1-DataColumns/DataColumns.solutions.md#solution-to-challenge-5"> challenge #5<a/>
 <br>
 <br>
 
@@ -188,14 +187,14 @@ S = 'The square root of {0} is  {1}'
 print  S.format (a,  math.sqrt(a))
 ```
 
-
-> ####  **Challenge #6**
 ---
+> ####  **Challenge #6**
+>
 >Use two lists with data from `neuron_data-2.txt` to write a table identical to `neuron_data-2.txt`. Do it using **string formatting**.
 >
 ---
 
-See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-6"> challenge #6<a/>
+See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/1-DataColumns/DataColumns.solutions.md#solution-to-challenge-6"> challenge #6<a/>
 <br>
 <br>
 
@@ -211,9 +210,9 @@ See the solution to <a href="https://github.com/joanamarques/python_course/blob/
 <img src="../../img/expression_values.png" alt="slot" style="width: 300px;"/>
 
 
-
-> ####  **Challenge #7**
 ---
+> ####  **Challenge #7**
+>
 >Write a program that reads the `neuron_data-2.txt` file, calculates the number of primary neurons, their total length, and the shortest and the longest lengths.
 >
 >Write the results to a file using string formatting.
@@ -222,6 +221,8 @@ See the solution to <a href="https://github.com/joanamarques/python_course/blob/
 >
 ----
 
-See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/3-DataColumns/DataColumns.solutions.md#solution-to-challenge-7"> challenge #7<a/>
+See the solution to <a href="https://github.com/joanamarques/python_course/blob/master/day3/1-DataColumns/DataColumns.solutions.md#solution-to-challenge-7"> challenge #7<a/>
 <br>
 <br>
+
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
