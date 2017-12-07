@@ -32,7 +32,7 @@ In order to use a function, you have first to define it and then to call it
 >-    Print the result
 >
 ---
-<img src="../../img/triangle.png" alt="slot" style="width: 100px;"/>
+<img src="../../img/trianglev2.png" alt="slot" style="width: 100px;"/>
 
 See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
 <br>
