@@ -16,7 +16,7 @@ The course will be highly interactive and the students will continuously put the
 
 #### This repository is for the course materials and it is organized as follows:
 
-
+##### Timetable
 
 Days |Lessons \& Tutorials | Data \& Scripts |
 ------------ | ------------- | ------------- |
