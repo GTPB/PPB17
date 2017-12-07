@@ -39,3 +39,5 @@ This is the topic for now but … first let us consider some different flavours 
 ```
 It is often useful to sketch out your code ideas for a program in informal Natural Language before tackling the rigours of Python (or any other programming language). Code written in Natural Laguge is sometimes referred to as pseudo code. I have no idea why, except I suppose it sounds more... Technical? Tricky? And so helps to keep the uninitiated at a suitable distance.
 ```
+
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
