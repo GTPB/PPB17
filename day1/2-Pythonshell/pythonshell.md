@@ -143,3 +143,5 @@ calculator.
 +  Variables are containers for data.
 +  Modules are containers for data and functions
 +  You can leave the shell by Ctrl-D.
+
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
