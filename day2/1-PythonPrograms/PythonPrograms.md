@@ -140,16 +140,6 @@ outfile.close()
 <br>
 
 ---
->Challenge
->
->Your first Python commands: create pairs
->
-----
-<img src="../../img/pp6.png" alt="slot" style="width: 100px;"/>
-<br>
-<br>
-
----
 > ####  **Challenge #4**
 >
 >Calculate DNA base occurrences
