@@ -32,7 +32,7 @@ In order to use a function, you have first to define it and then to call it
 >-    Print the result
 >
 ---
-<img src="../../img/trianglev2.png" alt="slot" style="width: 100px;"/>
+<img src="../../img/trianglev2.png" alt="slot" style="width: 300px;"/>
 
 See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
 <br>
@@ -364,4 +364,4 @@ The  number  of  arguments  can  be  variable  (i.e.  can  change  from  one fun
 {'num': 100, 'seq': 'ACCTGGCACAA', 'num2': 200}
 ```
 
-<a href="https://github.com/joanamarques/python_course/readme.md> Back to Timetable</a>
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
