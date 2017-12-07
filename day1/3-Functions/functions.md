@@ -23,9 +23,9 @@ In order to use a function, you have first to define it and then to call it
 <img src="../../img/functions2.png" alt="slot" style="width: 300px;"/>
 
 
-
-> ####  **Challenge #1**
 ---
+> ####  **Challenge #1**
+>
 >
 >-  Write a function triangle_area(b, h) that returns the area of a triangle
 >-    Call the function for b = 2.28 and h = 3.55
@@ -225,10 +225,10 @@ print_funct(10)
 - function arguments
 
 
-
-> ####  **Challenge #3**
 ---
-Write a function that takes as arguments two points [x1, y1, z1] and [x2, y2, z2] and returns the distance between the two points.
+> ####  **Challenge #3**
+>
+>Write a function that takes as arguments two points [x1, y1, z1] and [x2, y2, z2] and returns the distance between the two points.
 >
 ---
 
@@ -236,13 +236,13 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/
 <br>
 <br>
 
-
-> ####  **Challenge #4**
 ---
-Write a function that :
--  Takes as input a file name (of a FASTA file).
--  Opens the file.
--  Returns the header of the sequence record.
+> ####  **Challenge #4**
+>
+>Write a function that :
+>-  Takes as input a file name (of a FASTA file).
+>-  Opens the file.
+>-  Returns the header of the sequence record.
 >
 >Print the header.
 >
@@ -252,10 +252,10 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/
 <br>
 <br>
 
-
-> ####  **Challenge #5**
 ---
-Insert the function call in a for loop running on a list of 3 sequence file names.
+> ####  **Challenge #5**
+>
+>Insert the function call in a for loop running on a list of 3 sequence file names.
 >
 ---
 
@@ -263,12 +263,12 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/
 <br>
 <br>
 
-
-> ####  **Challenge #6**
 ---
-Consider two output schemes for exercise 4:
-1. All the the headers are written to the same output file
-2. Each header is written in a separate output file
+> ####  **Challenge #6**
+>
+>Consider two output schemes for exercise 4:
+>1. All the the headers are written to the same output file
+>2. Each header is written in a separate output file
 >
 ---
 
