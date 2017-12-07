@@ -33,7 +33,6 @@ It is a text file that contains Python commands or, in other words, lines of cod
 
 <img src="../../img/pp2.png" alt="slot" style="width: 100px;"/>
 
-## How programs work
 
 <img src="../../img/pp3.png" alt="slot" style="width: 100px;"/>
 
