@@ -314,8 +314,9 @@ data_sorted = sorted(data, key = itemgetter(1))
 print data_sorted
 ```
 
-> ####  **Challenge #1**
 ---
+> ####  **Challenge #1**
+>
 >Sort a table, convert its elements  to strings  and write it to a file
 >
 ---
@@ -358,8 +359,9 @@ table = sorted(table, key=itemgetter(1,3), reverse=True)
 <br>
 <br>
 
-> ####  **Challenge #2**
 ---
+> ####  **Challenge #2**
+>
 From `neuron_data.txt` generate two tables, one for primary and one for secondary neurons
 >
 >The content of the file `neuron_data.txt`:
@@ -406,9 +408,9 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/extra
 <br>
 
 
-
-> ####  **Challenge #3**
 ---
+> ####  **Challenge #3**
+>
 >Sort the primary neuron’s table and show the three longest neurons
 >
 ---
@@ -417,9 +419,9 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/extra
 <br>
 <br>
 
-
-> ####  **Challenge #4**
 ---
+> ####  **Challenge #4**
+>
 >Turn the table and calculate the length average
 >
 ---
@@ -429,9 +431,9 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/extra
 <br>
 
 
-
-> ####  **Challenge #5**
 ---
+> ####  **Challenge #5**
+>
 >Create an empty table of 10 x 10 cells.
 >
 ---
@@ -440,9 +442,9 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/extra
 <br>
 <br>
 
-
-> ####  **Challenge #6**
 ---
+> ####  **Challenge #6**
+>
 >Fill the table with the numbers from 1 to 100.
 >
 ---
@@ -451,9 +453,9 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/extra
 <br>
 <br>
 
-
-> ####  **Challenge #7**
 ---
+> ####  **Challenge #7**
+>
 >Save the table to a tab-separated file.
 >
 ---
@@ -461,3 +463,5 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/extra
 See the <a href="https://github.com/joanamarques/python_course/blob/master/extra/1-TabularData/TabularData.solutions.md#solution-to-challenge-7"> solution to challenge #7<a/>
 <br>
 <br>
+
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
