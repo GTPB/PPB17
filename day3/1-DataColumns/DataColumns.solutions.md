@@ -147,7 +147,7 @@ for i in xrange(len(data1)):
 
 Outfile.close()
 ```
-<a href="hhttps://github.com/joanamarques/python_course/blob/master/day3/1-DataColumns/DataColumns.md#challenge-6">back <a/>
+<a href="https://github.com/joanamarques/python_course/blob/master/day3/1-DataColumns/DataColumns.md#challenge-6">back <a/>
 <br>
 <br>
 
