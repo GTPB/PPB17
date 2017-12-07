@@ -55,12 +55,10 @@ Good scientists do not perform experiments before developing a hypothesis and pl
 
 > **Before the first line of code is written, software projects should be thoughtfully designed**
 
-**Prior Planning and Preparation Prevents “Pretty” Poor Performance**
-
-[military seven Ps rule](https://en.wikipedia.org/wiki/7_Ps_%28military_adage%29) <br/>
+**Prior Planning and Preparation Prevents “Pretty” Poor Performance** [military seven Ps rule](https://en.wikipedia.org/wiki/7_Ps_%28military_adage%29) <br/>
 
 
-Amfahr J, Bustamante A, Rome P. Exploring Agile: The Seapine Agile Expedition
+*Amfahr J, Bustamante A, Rome P. Exploring Agile: The Seapine Agile Expedition*
 
 
 ### How much design?
