@@ -1,4 +1,4 @@
-<a href="https://github.com/ELIXIR-ITA-training/python_course"> Back to Timetable</a>
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
 
 
 
@@ -113,25 +113,25 @@ more than one value
 True
 ```
 
-
->#### Challenge #1
 ---
+>#### Challenge #1
+>
 >Using the `codonAMINO` dictonary from `tgac.py` translate the sequence in `rna_seq.fasta`. Use a single reading frame.
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/1-DataSearching/DataSearching.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
+See the <a href="https://github.com/joanamarques/python_course/blob/master/day4/1-DataSearching/DataSearching.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
 <br>
 <br>
 
-
->#### Challenge #2
 ---
+>#### Challenge #2
+>
 >Implement program 1 for the three reading frames
 >
 ---
 
-See the <a href="https://github.com/ELIXIR-ITA-training/python_course/blob/master/day4/1-DataSearching/DataSearching.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
+See the <a href="https://github.com/joanamarques/python_course/blob/master/day4/1-DataSearching/DataSearching.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
 <br>
 <br>
 
@@ -265,3 +265,5 @@ set(['a', 'b'])
 >>> S2 – S1
 set(['e', 'd'])
 ```
+
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
