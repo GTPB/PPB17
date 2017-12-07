@@ -39,7 +39,7 @@ elem =  dna.count ("G")
 print  elem
 ```
 
-##Loops with for
+## Loops with for
 The `for` command repeats other commands:
 ```
 dna = "AGCTTCGA”
