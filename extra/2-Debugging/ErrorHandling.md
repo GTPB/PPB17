@@ -1,6 +1,5 @@
 <a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
 
->
 
 # Exception handling
 
@@ -44,10 +43,7 @@ else:
 [Built-in exceptions](https://docs.python.org/2/library/exceptions.html)
 
 
-<img src="../../img/ErrorHandling.png" alt="slot" style="width: 300px;"/>
-
-
-```
+``
 
 def main(data):
     print data
@@ -60,5 +56,6 @@ except ImportError:
     raise SystemExit
 else:
     main(data)
-```
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+``
+
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable </a>
