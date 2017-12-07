@@ -1,7 +1,7 @@
 <a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
 
 
-#Writing good programs
+# Writing good programs
 
 Best practices in programming help you to do a more efficient and better science
 
