@@ -362,7 +362,7 @@ table = sorted(table, key=itemgetter(1,3), reverse=True)
 ---
 > ####  **Challenge #2**
 >
-From `neuron_data.txt` generate two tables, one for primary and one for secondary neurons
+>From `neuron_data.txt` generate two tables, one for primary and one for secondary neurons
 >
 >The content of the file `neuron_data.txt`:
 ```
