@@ -29,7 +29,7 @@ day 4 |[Data Searching](day4/1-DataSearching/DataSearching.md), [Python librarie
 
 #### Extra materials
 
-You can also find some extra lessons on [Tabular Data](extra/1-TabularData/TabularData.md), [Debugging](extra/2-Debugging/BestPracticesInProgramming.md) and [Error Handling](extra2-Debugging/ErrorHandling.md).
+You can also find some extra lessons on [Tabular Data](extra/1-TabularData/TabularData.md), [Debugging](extra/2-Debugging/BestPracticesInProgramming.md) and [Error Handling](extra/2-Debugging/ErrorHandling.md).
 
 
 =======
