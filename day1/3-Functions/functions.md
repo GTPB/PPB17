@@ -1,4 +1,4 @@
-<a href="https://github.com/joanamarques/python_course/readme.md> Back to Timetable</a>
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
 
 
 ## Functions
