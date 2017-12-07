@@ -302,12 +302,12 @@ For shells in the bash family:
 For shells in the csh family:
 `setenv PATH $PATH\:~/allegra/my_scripts`
 
-
-### A few more questions…
-
-- What is command-line completion?
-- What is a default argument?
-
+---
+>### A few more questions…
+>
+>- What is command-line completion?
+>- What is a default argument?
+>
 ---
 
 ##  Connecting to a remote computer
