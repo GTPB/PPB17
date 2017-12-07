@@ -242,7 +242,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-II.solutions.md#solution-to-challenge-2">solution to Challenge #1<a/>
+See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-II.solutions.md#solution-to-challenge-2">solution to Challenge #2<a/>
 
 <br>
 <br>
@@ -255,7 +255,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 >
 ----
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-II.solutions.md#solution-to-challenge-3">solution to Challenge #1<a/>
+See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-II.solutions.md#solution-to-challenge-3">solution to Challenge #3<a/>
 
 <br>
 <br>
