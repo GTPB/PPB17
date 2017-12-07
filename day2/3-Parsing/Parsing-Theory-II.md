@@ -103,8 +103,6 @@ L = []  # the empty list
 The elements of a list can be changed/replaced after the list has been defined **These operations CHANGE the list**
 
 
-|        |
-|--------|
 |l[i] = x|
 |l[i:j] = t|
 |del l[i:j]|
@@ -138,10 +136,6 @@ s = any sequence
 
 The elements of a list can be changed/replaced after the list has been defined
 
-
-
-| |
-|--------|
 |l.count(x)|
 |l.index(x)|
 |l.insert(i, x)|
@@ -171,11 +165,6 @@ The elements of a list can be changed/replaced after the list has been defined
 The elements of a list can be changed/replaced after the list has been defined
 ```
 
-
-
-
-| |
-|--------|
 |l.reverse()|
 |l.sort()|
 |sorted(l)|
@@ -224,16 +213,14 @@ The `xrange()` method generates the values upon call, i.e. it does not
 store them into a variable
 
 
-## Indexing
-
 <img src="../../img/indexing.png" alt="indexing" style="width: 300px;"/>
 
 Computers treat an address in memory as the **starting point** of a body of data. In the same sense, an **index** in Python always refers to such a starting point, something that is **in between** two objects in memory. We humans in contrast always count the objects themselves.
 
 
-
-> ####  **Challenge #1**
 ---
+> ####  **Challenge #1**
+>
 >
 >-  Read 10 SwissProt ACs from a file
 >-   Store them into a list
@@ -246,11 +233,11 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 <br>
 <br>
 
-> ####  **Challenge #2**
 ---
+> ####  **Challenge #2**
 >
->-  Create a list containing Uniprot ACs extracted
-from a FASTA file
+>
+>-  Create a list containing Uniprot ACs extracted from a FASTA file
 >-   Print the list
 >
 ---
@@ -260,9 +247,9 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 <br>
 <br>
 
-
-> ####  **Challenge #3**
 ---
+> ####  **Challenge #3**
+>
 >-   Read the human FASTA file one record after the other. Check if the record header contains one of the 10 ACs.
 >-   If YES, copy the header to a new file.
 >
@@ -273,9 +260,9 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 <br>
 <br>
 
-
-> ####  **Challenge #4**
 ---
+> ####  **Challenge #4**
+>
 >Read a multiple sequence file in FASTA format and write to a new file only the records the Uniprot ACs of which are present in the list created in Program 1
 >
 >Check the file `SwissProt-Human.fasta`
@@ -356,3 +343,5 @@ while line:
   cancer_list.append(AC)
   line = cancer_file.readline()
 ```
+
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
