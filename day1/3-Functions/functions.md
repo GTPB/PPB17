@@ -1,4 +1,4 @@
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+<a href="https://github.com/joanamarques/python_course/readme.md#timetable"> Back to Timetable</a>
 
 
 ## Functions
@@ -64,9 +64,9 @@ def triangle_area(b, h):
 
 print triangle_area.__doc__
 ```
-
-> ####  **Challenge #2**
 ---
+> ####  **Challenge #2**
+>
 > Define a function with two arguments: `get_values(arg1, arg2)` that returns the sum, the difference, and the product of `arg1` and `arg2`.
 >
 ---
