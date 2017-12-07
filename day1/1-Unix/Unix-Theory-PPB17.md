@@ -23,7 +23,7 @@ The shell is an interpreter (a program) that lets you interact with the operatin
 -   The shell is actually a scripting language somewhat like Python
 -   It is always possible to change shell (either temporarily or permanently)
 
-![shell](../../img/shelll.png)
+![shell](../../img/shell.png)
 
 
 ## What is the graphical interface?
