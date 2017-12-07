@@ -11,38 +11,15 @@ In this module you can learn
 -  How to repeat things
 -  How to create your own modules
 
----
-Challenge
->
-> *Game of instruction*
->
-> You will be given the drawing of a shape and in group you should write instructions to draw the same shape from scratch
-> The instructions will be given to another group that haven't seen the shape and should draw it following the instructions
->
----
-
-
----
-Challenge
->
->Questions for getting started (given to small groups on cards)
-
-> + Write examples of 4 programs you know
-> + What do programs do?
-> + Write a definition of program.
->
----
-
-
 <img src="../../img/pp1.png" alt="slot" style="width: 100px;"/>
 
 
 ## What is a program?
 It is a text file that contains Python commands or, in other words, lines of code
 
-
-> ####  **Challenge #1**
 ---
+> ####  **Challenge #1**
+>
 >-  Open a text file, write: <br>
 >- print `"This is the output of my first program"`
 >- save the file with the name my_print.py and exit
@@ -56,12 +33,12 @@ It is a text file that contains Python commands or, in other words, lines of cod
 
 ---
 >Challenge
-
+>
 > Your first Python commands: create pairs
-<img src="../../img/pp2.png" alt="slot" style="width: 100px;"/>
 >
 ---
 
+<img src="../../img/pp2.png" alt="slot" style="width: 100px;"/>
 
 ## How programs work
 
@@ -86,8 +63,9 @@ Type a number: 3
 3
 ```
 
-> ####  **Challenge #2**
 ---
+> ####  **Challenge #2**
+>
 >Write a program that reads something from the keyboard and print it to the screen.
 >
 ---
@@ -125,9 +103,9 @@ print insulin
 ```
 <br>
 
-
-> ####  **Challenge #3**
 ---
+> ####  **Challenge #3**
+>
 >Write a program that reads a sequence from a file and print it to the screen. Run it.
 >
 ---
@@ -160,18 +138,20 @@ outfile.close()
 
 <br>
 <br>
->Challenge
+
 ---
+>Challenge
+>
 >Your first Python commands: create pairs
-<img src="../../img/pp6.png" alt="slot" style="width: 100px;"/>
 >
 ----
-
+<img src="../../img/pp6.png" alt="slot" style="width: 100px;"/>
 <br>
 <br>
 
-> ####  **Challenge #4**
 ---
+> ####  **Challenge #4**
+>
 >Calculate DNA base occurrences
 >
 >Write a program that counts how many times the four bases occur in a DNA sequence. The program should:
@@ -194,3 +174,5 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 -  `write()` writes to an open file
 -  for loops repeat commands
 -  comments starts with `#` or `'''`
+
+<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
