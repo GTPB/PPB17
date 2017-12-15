@@ -1,4 +1,4 @@
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+<a href="https://github.com/GTPB/PPB17"> Back to Timetable</a>
 
 # Python programs
 
@@ -62,7 +62,7 @@ Type a number: 3
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/1-PythonPrograms/PythonPrograms.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/1-PythonPrograms/PythonPrograms.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
 
 
 
@@ -144,7 +144,7 @@ outfile.close()
 >
 ----
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/1-PythonPrograms/PythonPrograms.solutions.md#solution-to-challenge-4">solution to challenge #4<a/>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/1-PythonPrograms/PythonPrograms.solutions.md#solution-to-challenge-4">solution to challenge #4<a/>
 
 
 
@@ -157,4 +157,4 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 -  for loops repeat commands
 -  comments starts with `#` or `'''`
 
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+<a href="https://github.com/GTPB/PPB17"> Back to Timetable</a>
