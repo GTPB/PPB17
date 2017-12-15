@@ -124,3 +124,5 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 <img src="../../img/pp9.png" alt="slot" style="width: 100px;"/>
 
 <a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+
+Let's finish with a [quizz](../../day2/2-RepeatingThings/Quiz_looptypescopy.pdf)!
