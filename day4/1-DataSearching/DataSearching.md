@@ -1,4 +1,4 @@
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+<a href="https://github.com/GTPB/PPB17"> Back to Timetable</a>
 
 
 
@@ -120,7 +120,7 @@ True
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day4/1-DataSearching/DataSearching.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day4/1-DataSearching/DataSearching.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
 <br>
 <br>
 
@@ -131,7 +131,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day4/
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day4/1-DataSearching/DataSearching.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day4/1-DataSearching/DataSearching.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
 <br>
 <br>
 
@@ -266,4 +266,4 @@ set(['a', 'b'])
 set(['e', 'd'])
 ```
 
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+<a href="https://github.com/GTPB/PPB17"> Back to Timetable</a>
