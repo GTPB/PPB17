@@ -1,4 +1,4 @@
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+<a href="https://github.com/GTPB/PPB17"> Back to Timetable</a>
 
 Let's start with a [quiz](../../day1/1-Unix/Quiz_barelyessentialunixfromwheredoyoustartcopy.pdf)!
 
@@ -393,4 +393,4 @@ $ ls ~/oeiras
 ## Redirection
 ![tab49](../../img/t49.png)
 
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+<a href="https://github.com/GTPB/PPB17"> Back to Timetable</a>
