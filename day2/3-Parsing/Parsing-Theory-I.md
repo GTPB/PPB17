@@ -1,4 +1,4 @@
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+<a href="https://github.com/GTPB/PPB17"> Back to Timetable</a>
 
 
 
@@ -23,7 +23,7 @@ MTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARRWRVISSIEQKTERNEKKQQMGK
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-1">solution to challenge #1</a>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-1">solution to challenge #1</a>
 
 <br>
 <br>
@@ -36,7 +36,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-2">solution to challenge #2</a>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-2">solution to challenge #2</a>
 
 <br>
 <br>
@@ -109,7 +109,7 @@ MTMDKSELVQKAKLAEQAERYDDMAAAMKAVTEQGHELSNEERNLLSVAYKNVVGARWRVISSIEQKTERNEKKQQMGKE
 ---
 
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-3">solution to challenge #3</a>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-3">solution to challenge #3</a>
 <br>
 <br>
 
@@ -121,7 +121,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-4">solution to challenge #4</a>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-4">solution to challenge #4</a>
 
 <br>
 <br>
@@ -134,7 +134,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-5">solution to challenge #5</a>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-5">solution to challenge #5</a>
 
 <br>
 <br>
@@ -146,7 +146,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-4-and-5-mergred"> solution to challenges #4 and #5 merged</a>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-4-and-5-mergred"> solution to challenges #4 and #5 merged</a>
 
 <br>
 <br>
@@ -162,7 +162,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-6">solution to challenge #6</a>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-6">solution to challenge #6</a>
 
 
 <br>
@@ -177,7 +177,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 ---
 
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-7">solution to challenge #7</a>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-7">solution to challenge #7</a>
 
 <br>
 <br>
@@ -190,7 +190,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-8">solution to challenge #8</a>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-8">solution to challenge #8</a>
 
 <br>
 <br>
@@ -221,7 +221,7 @@ MDDREDLVYQAKLAEQAERYDEMVESMKKVAGMDVELTVEERNLLSVAYKNVIGARRASWRIISSIEQKEENKGGEDKLK
 ---
 
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-9">solution to challenge #9</a>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-9">solution to challenge #9</a>
 
 <br>
 <br>
@@ -234,7 +234,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 ---
 
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-10">solution to challenge #10</a>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-10">solution to challenge #10</a>
 
 <br>
 <br>
@@ -247,7 +247,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 ---
 
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-11">solution to challenge #11</a>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-11">solution to challenge #11</a>
 
 <br>
 <br>
@@ -261,7 +261,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 ---
 
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-12">solution to challenge #12</a>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-12">solution to challenge #12</a>
 
 <br>
 <br>
@@ -274,7 +274,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 ---
 
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-13">solution to challenge #13</a>
+See the <a href="https://github.com/jGTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-13">solution to challenge #13</a>
 
 <br>
 <br>
@@ -298,7 +298,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 
 
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-14">solution to challenge #14</a>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-14">solution to challenge #14</a>
 
 <br>
 <br>
@@ -323,7 +323,7 @@ Gtaccgttgtagctctctcgtaaacacaagaaccaacaccaaacaacatactacaactga
 ---
 
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-15">solution to challenge #15</a>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-I.solutions.md#solution-to-challenge-15">solution to challenge #15</a>
 
 
 
@@ -337,4 +337,4 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 
 +   Use  lists if you have to compare data from different files
 
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+<a href="https://github.com/GTPB/PPB17"> Back to Timetable</a>
