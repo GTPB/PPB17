@@ -1,4 +1,4 @@
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+<a href="https://github.com/GTPB/PPB17"> Back to Timetable</a>
 
 
 # Parsing data records II
@@ -228,7 +228,7 @@ Computers treat an address in memory as the **starting point** of a body of data
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-II.solutions.md#solution-to-challenge-1">solution to Challenge #1<a/>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-II.solutions.md#solution-to-challenge-1">solution to Challenge #1<a/>
 
 <br>
 <br>
@@ -242,7 +242,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-II.solutions.md#solution-to-challenge-2">solution to Challenge #2<a/>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-II.solutions.md#solution-to-challenge-2">solution to Challenge #2<a/>
 
 <br>
 <br>
@@ -255,7 +255,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 >
 ----
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-II.solutions.md#solution-to-challenge-3">solution to Challenge #3<a/>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-II.solutions.md#solution-to-challenge-3">solution to Challenge #3<a/>
 
 <br>
 <br>
@@ -279,7 +279,7 @@ GNYWHAHMGDREQLLQRARLAEQAERYDDMASAMKAVTELNEPLSNEDRNLLSVAYKNVVGARRSSWRVISSIEQKTMAD
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-II.solutions.md#solution-to-challenge-4">solution to Challenge #4<a/>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-II.solutions.md#solution-to-challenge-4">solution to Challenge #4<a/>
 
 
 ## Putting together conditions and loops `while` loops
@@ -344,4 +344,4 @@ while line:
   line = cancer_file.readline()
 ```
 
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+<a href="https://github.com/GTPB/PPB17"> Back to Timetable</a>
