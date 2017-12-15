@@ -1,4 +1,4 @@
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+<a href="https://github.com/GTPB/PPB17"> Back to Timetable</a>
 
 
 # Repeating things
@@ -76,7 +76,7 @@ Why or why not?
 ----
 
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/2-RepeatingThings/RepeatingThings.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/2-RepeatingThings/RepeatingThings.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
 
 
 ## Use a `for` loop to read a file line by line
@@ -103,7 +103,7 @@ for line in src_human:
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/2-RepeatingThings/RepeatingThings.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/2-RepeatingThings/RepeatingThings.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
 
 
 <img src="../../img/pp8.png" alt="slot" style="width: 100px;"/>
@@ -116,13 +116,13 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/
 ---
 
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day2/2-RepeatingThings/RepeatingThings.solutions.md#solution-to-challenge-3">solution to challenge #3<a/>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day2/2-RepeatingThings/RepeatingThings.solutions.md#solution-to-challenge-3">solution to challenge #3<a/>
 
 
 
 ### Recap
 <img src="../../img/pp9.png" alt="slot" style="width: 100px;"/>
 
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+<a href="https://github.com/GTPB/PPB17"> Back to Timetable</a>
 
 Let's finish with a [quizz](../../day2/2-RepeatingThings/Quiz_looptypescopy.pdf)!
