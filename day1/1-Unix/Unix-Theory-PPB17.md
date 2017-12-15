@@ -1,5 +1,6 @@
 <a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
 
+Let's start with a [quiz](PPB17/day1/1-Unix/Quiz_barelyessentialunixfromwheredoyoustartcopy.pdf)!
 
 # What is Unix/Linux?
 
