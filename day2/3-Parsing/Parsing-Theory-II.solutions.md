@@ -11,7 +11,7 @@ for line in cancer_file:
   cancer_list.append(AC)
 print cancer_list
 ```
-<a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-II.md#challenge-1">back<a/>
+<a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-II.md#challenge-1">back<a/>
 
 
 #### Solution to challenge #2
@@ -25,7 +25,7 @@ for line in InputFile:
     AC_list.append(fields[1])
 print AC_list
 ```
-<a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-II.md#challenge-2">back<a/>
+<a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-II.md#challenge-2">back<a/>
 
 
 #### Solution to challenge #3
@@ -53,7 +53,7 @@ Outfile.close()
 
 *We are not writing the whole record but the header line only*
 
-<a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-II.md#challenge-3">back<a/>
+<a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-II.md#challenge-3">back<a/>
 
 
 #### Solution to challenge #4
@@ -110,4 +110,4 @@ Outfile.close()
 ```
 
 
-<a href="https://github.com/joanamarques/python_course/blob/master/day2/3-Parsing/Parsing-Theory-II.md#challenge-4">back<a/>
+<a href="https://github.com/GTPB/PPB17/blob/master/day2/3-Parsing/Parsing-Theory-II.md#challenge-4">back<a/>
