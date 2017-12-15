@@ -1,4 +1,4 @@
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+<a href="https://github.com/GTPB/PPB17"> Back to Timetable</a>
 
 
 ## Functions
@@ -34,7 +34,7 @@ In order to use a function, you have first to define it and then to call it
 ---
 <img src="../../img/trianglev2.png" alt="slot" style="width: 300px;"/>
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-1">solution to challenge #1<a/>
 <br>
 <br>
 
@@ -71,7 +71,7 @@ print triangle_area.__doc__
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-2">solution to challenge #2<a/>
 <br>
 <br>
 
@@ -231,7 +231,7 @@ print_funct(10)
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-3">solution to challenge #3<a/>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-3">solution to challenge #3<a/>
 <br>
 <br>
 
@@ -247,7 +247,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-4">solution to challenge #4<a/>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-4">solution to challenge #4<a/>
 <br>
 <br>
 
@@ -258,7 +258,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/
 >
 ---
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-5">solution to challenge #5<a/>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-5">solution to challenge #5<a/>
 <br>
 <br>
 
@@ -272,7 +272,7 @@ See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/
 ---
 
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-6">solution to challenge #6<a/>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day1/3-Functions/functions.solutions.md#solution-to-challenge-6">solution to challenge #6<a/>
 <br>
 <br>
 
@@ -364,4 +364,4 @@ The  number  of  arguments  can  be  variable  (i.e.  can  change  from  one fun
 {'num': 100, 'seq': 'ACCTGGCACAA', 'num2': 200}
 ```
 
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+<a href="https://github.com/GTPB/PPB17"> Back to Timetable</a>
