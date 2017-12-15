@@ -1,4 +1,4 @@
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+<a href="https://github.com/GTPB/PPB17"> Back to Timetable</a>
 
 
 # The Python Shell
@@ -131,7 +131,7 @@ make it fast.
 ---
 
 
-See the <a href="https://github.com/joanamarques/python_course/blob/master/day1/2-Pythonshell/pythonshell.solutions.md#solution-to-challenge-2">Solution to challenge #2</a>
+See the <a href="https://github.com/GTPB/PPB17/blob/master/day1/2-Pythonshell/pythonshell.solutions.md#solution-to-challenge-2">Solution to challenge #2</a>
 <br>
 <br>
 
@@ -144,4 +144,4 @@ calculator.
 +  Modules are containers for data and functions
 +  You can leave the shell by Ctrl-D.
 
-<a href="https://github.com/joanamarques/python_course"> Back to Timetable</a>
+<a href="https://github.com/GTPB/PPB17"> Back to Timetable</a>
