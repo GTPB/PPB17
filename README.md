@@ -36,4 +36,4 @@ You can also find some extra lessons on [Tabular Data](extra/1-TabularData/Tabul
 
 
 ### This course was taught at:
--  [PPB17](http://gtpb.igc.gulbenkian.pt/bicourses/PPB17/) November 27-30<br/>
+-  [PPB17](http://gtpb.igc.gulbenkian.pt/bicourses/index.html) November 27-30<br/>
