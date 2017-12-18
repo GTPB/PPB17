@@ -39,4 +39,4 @@ You can also find some extra lessons on [Tabular Data](extra/1-TabularData/Tabul
 -  [PPB17](http://gtpb.igc.gulbenkian.pt/bicourses/index.html) November 27-30<br/>
 
 ### Adapted from:
--  [ELIXIR-IT] (https://github.com/ELIXIR-IIB-training/python_course) Python Course</br>
+-  <a href="https://github.com/ELIXIR-ITA-training/python_course"> ELIXIR-IT Python Course</a>
