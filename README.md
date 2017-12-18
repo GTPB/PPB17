@@ -37,3 +37,6 @@ You can also find some extra lessons on [Tabular Data](extra/1-TabularData/Tabul
 
 ### This course was taught at:
 -  [PPB17](http://gtpb.igc.gulbenkian.pt/bicourses/index.html) November 27-30<br/>
+
+### Adapted from:
+-  [ELIXIR-IT] (https://github.com/ELIXIR-IIB-training/python_course) Python Course</br>
