@@ -1,6 +1,6 @@
 # Programming in Python for Biologists
 
-
+by Allegra Via, Sapienza University, Roma, IT and ELIXIR-IT
 
 Python is an object-oriented programming language that is ideal for biological data analysis. The course will start from zero knowledge, and will introduce the participants to all the basic concepts of Python such as calculating, repeating things, making choices, reading and writing files, filtering and organising data, program logic and writing larger programs. All the examples and practical sessions will focus on solving biological problems. In particular the sessions will cover:
 
