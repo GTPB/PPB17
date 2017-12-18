@@ -36,7 +36,7 @@ You can also find some extra lessons on [Tabular Data](extra/1-TabularData/Tabul
 
 
 ### This course was taught at:
--  [PPB17](http://gtpb.igc.gulbenkian.pt/bicourses/index.html) November 27-30<br/>
+-  [PPB17](http://gtpb.igc.gulbenkian.pt/bicourses/index.html) November 27-30<br/> by Allegra Via, assisted by David P. Judge and Pedro L. Fernandes.
 
-### Adapted from:
--  <a href="https://github.com/ELIXIR-ITA-training/python_course"> ELIXIR-IT Python Course</a>
+### Materials were adapted from:
+-  <a href="https://github.com/ELIXIR-ITA-training/python_course"> ELIXIR-IT Python Course</a>. Prepared by Allegra Via and Vincenza Colonna.
